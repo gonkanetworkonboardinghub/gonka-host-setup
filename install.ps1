@@ -21,9 +21,10 @@
   function Say([string]$text, [string]$color = 'Gray') { Write-Host "  $text" -ForegroundColor $color }
 
   # curl.exe ships with Windows 10/11 and shows a progress bar; fall back to
-  # Invoke-WebRequest where it's missing or blocked.
+  # Invoke-WebRequest where it's missing or blocked. Not in PowerShell ISE,
+  # which paints a program's progress output as red error text.
   function Get-Installer([string]$url, [string]$dest) {
-    if (Get-Command curl.exe -ErrorAction SilentlyContinue) {
+    if (-not $psISE -and (Get-Command curl.exe -ErrorAction SilentlyContinue)) {
       & curl.exe -fL --progress-bar -o $dest $url
       if ($LASTEXITCODE -eq 0) { return }
       Remove-Item -LiteralPath $dest -Force -ErrorAction SilentlyContinue
