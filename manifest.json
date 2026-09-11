@@ -1,0 +1,9 @@
+{
+  "app": {
+    "latest": "1.0.0",
+    "minSupported": "0.1.0",
+    "url": "https://github.com/gonkanetworkonboardinghub/gonka-host-setup/releases/latest/download/Gonka-Host-Setup.exe",
+    "sha256": "225bd8af5d53df53d7e2c8bd05402501bbdb6035fe80c9ecb2e49b6c245c6159",
+    "notes": "First public release."
+  }
+}
