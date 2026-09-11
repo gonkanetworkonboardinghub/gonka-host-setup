@@ -1,10 +1,10 @@
 {
   "app": {
-    "latest": "1.0.1",
-    "minSupported": "0.1.0",
+    "latest": "1.0.2",
+    "minSupported": "1.0.2",
     "url": "https://github.com/gonkanetworkonboardinghub/gonka-host-setup/releases/latest/download/Gonka-Host-Setup.exe",
-    "installer": "https://github.com/gonkanetworkonboardinghub/gonka-host-setup/releases/download/v1.0.1/Gonka-Host-Setup-Setup-1.0.1.exe",
-    "sha256": "9bccfe469c33c85b333e678097a016554b665c8a1b5d036f598b452defaff1f5",
-    "notes": "Updates now download and install themselves inside the app."
+    "installer": "https://github.com/gonkanetworkonboardinghub/gonka-host-setup/releases/download/v1.0.2/Gonka-Host-Setup-Setup-1.0.2.exe",
+    "sha256": "b6e50e026698bdd8e9c5e73a626a64fa96f223bd22a8190b8b5f7d978a89a97c",
+    "notes": "The wallet is now built into the app, so wallet steps work on every Windows PC (no WSL needed)."
   }
 }
