@@ -1,22 +1,22 @@
 {
   "app": {
-    "latest": "1.1.0",
-    "minSupported": "1.1.0",
+    "latest": "1.2.0",
+    "minSupported": "1.2.0",
     "url": "https://github.com/gonkanetworkonboardinghub/gonka-host-setup/releases/latest/download/Gonka-Network-Onboarding-Tool.exe",
-    "installer": "https://github.com/gonkanetworkonboardinghub/gonka-host-setup/releases/download/v1.1.0/Gonka-Network-Onboarding-Tool-Setup-1.1.0.exe",
-    "sha256": "4c6a58502e9f812d61ee64d1a5c2ba166c259e754689a8407579e32dafc3b53e",
-    "notes": "Now The Gonka Network Onboarding Tool: choose what to do when it opens (Gonka Host Setup today, Gonka Vote coming soon). Available for Mac, and shows your version at the bottom left.",
+    "installer": "https://github.com/gonkanetworkonboardinghub/gonka-host-setup/releases/download/v1.2.0/Gonka-Network-Onboarding-Tool-Setup-1.2.0.exe",
+    "sha256": "aadef242f4172de73a25827d03e55c6ef1c616935e31589f3aeb6b1c7b5bae86",
+    "notes": "Home screen: Gonka Host Monitor joins the tool list, and the coming-soon tools now open a panel that says what they will do.",
     "mac": {
-      "latest": "1.1.0",
-      "minSupported": "1.1.0",
-      "notes": "Now The Gonka Network Onboarding Tool: choose what to do when it opens (Gonka Host Setup today, Gonka Vote coming soon). Available for Mac, and shows your version at the bottom left.",
+      "latest": "1.2.0",
+      "minSupported": "1.2.0",
+      "notes": "Home screen: Gonka Host Monitor joins the tool list, and the coming-soon tools now open a panel that says what they will do.",
       "arm64": {
-        "url": "https://github.com/gonkanetworkonboardinghub/gonka-host-setup/releases/download/v1.1.0/Gonka-Network-Onboarding-Tool-1.1.0-mac-arm64.zip",
-        "sha256": "ff2bf3125a9ac7f3fa841cdfd8251318768bbaf63f4148a8753afaca6e3a4b1c"
+        "url": "https://github.com/gonkanetworkonboardinghub/gonka-host-setup/releases/download/v1.2.0/Gonka-Network-Onboarding-Tool-1.2.0-mac-arm64.zip",
+        "sha256": "825a7236ab52c359be9329ec01a635f9a10cbd99c66040ba152885b15b022701"
       },
       "x64": {
-        "url": "https://github.com/gonkanetworkonboardinghub/gonka-host-setup/releases/download/v1.1.0/Gonka-Network-Onboarding-Tool-1.1.0-mac-x64.zip",
-        "sha256": "8c40d28892857778dba91a19c39fe9e71abd9c72a21730ca74bd890522bc0757"
+        "url": "https://github.com/gonkanetworkonboardinghub/gonka-host-setup/releases/download/v1.2.0/Gonka-Network-Onboarding-Tool-1.2.0-mac-x64.zip",
+        "sha256": "c25a9b91391306db117293b4acb70933056f1525b85fcac36c074b17ef6199e8"
       }
     }
   }
