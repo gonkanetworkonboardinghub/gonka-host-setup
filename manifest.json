@@ -1,22 +1,22 @@
 {
   "app": {
-    "latest": "1.2.1",
-    "minSupported": "1.2.1",
+    "latest": "1.2.2",
+    "minSupported": "1.2.2",
     "url": "https://github.com/gonkanetworkonboardinghub/gonka-host-setup/releases/latest/download/Gonka-Network-Onboarding-Tool.exe",
-    "installer": "https://github.com/gonkanetworkonboardinghub/gonka-host-setup/releases/download/v1.2.1/Gonka-Network-Onboarding-Tool-Setup-1.2.1.exe",
-    "sha256": "a6032b7ad1b4b70fbe78a65b73fe4bad33927df7031f97643d0613913864570b",
-    "notes": "Mine it or buy it: what each rig mines today, read from the chain, with a cost calculator. Tools that are coming open a panel explaining them, and the way back to all tools is easier to find.",
+    "installer": "https://github.com/gonkanetworkonboardinghub/gonka-host-setup/releases/download/v1.2.2/Gonka-Network-Onboarding-Tool-Setup-1.2.2.exe",
+    "sha256": "101dc9c0f764342a971d375846db539e92154bafea08c431bc7d3194e157e6e7",
+    "notes": "Mine it or buy it: numbers now follow the typical node rather than a pooled average, rigs the network runs without a published config are listed too, and each break-even shows a per-GPU rate.",
     "mac": {
-      "latest": "1.2.1",
-      "minSupported": "1.2.1",
-      "notes": "Mine it or buy it: what each rig mines today, read from the chain, with a cost calculator. Tools that are coming open a panel explaining them, and the way back to all tools is easier to find.",
+      "latest": "1.2.2",
+      "minSupported": "1.2.2",
+      "notes": "Mine it or buy it: numbers now follow the typical node rather than a pooled average, rigs the network runs without a published config are listed too, and each break-even shows a per-GPU rate.",
       "arm64": {
-        "url": "https://github.com/gonkanetworkonboardinghub/gonka-host-setup/releases/download/v1.2.1/Gonka-Network-Onboarding-Tool-1.2.1-mac-arm64.zip",
-        "sha256": "a5070189df694071eb84cae5b55d2084935a73eafea6b63b953ab1803b95592b"
+        "url": "https://github.com/gonkanetworkonboardinghub/gonka-host-setup/releases/download/v1.2.2/Gonka-Network-Onboarding-Tool-1.2.2-mac-arm64.zip",
+        "sha256": "39e29be62a48e146c347b16eff79af1b0933d444d291024ebfa534c720c52f68"
       },
       "x64": {
-        "url": "https://github.com/gonkanetworkonboardinghub/gonka-host-setup/releases/download/v1.2.1/Gonka-Network-Onboarding-Tool-1.2.1-mac-x64.zip",
-        "sha256": "09d5ccef196043820868cb9234ad4cf774a5be2699df676764020ca488fc2030"
+        "url": "https://github.com/gonkanetworkonboardinghub/gonka-host-setup/releases/download/v1.2.2/Gonka-Network-Onboarding-Tool-1.2.2-mac-x64.zip",
+        "sha256": "aa245075e00e33ffe063498e8442c659a655e991c364b78ce9953f8676a4c44b"
       }
     }
   }
