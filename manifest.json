@@ -1,22 +1,22 @@
 {
   "app": {
-    "latest": "1.2.3",
-    "minSupported": "1.2.3",
+    "latest": "1.2.4",
+    "minSupported": "1.2.4",
     "url": "https://github.com/gonkanetworkonboardinghub/gonka-host-setup/releases/latest/download/Gonka-Network-Onboarding-Tool.exe",
-    "installer": "https://github.com/gonkanetworkonboardinghub/gonka-host-setup/releases/download/v1.2.3/Gonka-Network-Onboarding-Tool-Setup-1.2.3.exe",
-    "sha256": "a336321a5b8d33b86d9b18b97ada518ea681e450211737857dd08575d7fa478e",
-    "notes": "GNK price shown to two decimals, and the numbers refresh while the app stays open.",
+    "installer": "https://github.com/gonkanetworkonboardinghub/gonka-host-setup/releases/download/v1.2.4/Gonka-Network-Onboarding-Tool-Setup-1.2.4.exe",
+    "sha256": "868da3badcb7d7fb9d5183a092732b45584fa034721e9051b7ab48840fe2535f",
+    "notes": "Nodes set up with GNOT can now be counted on the chain: the transactions your wallet signs here carry the public note 'Set up with GNOT'. It says nothing about you.",
     "mac": {
-      "latest": "1.2.3",
-      "minSupported": "1.2.3",
-      "notes": "GNK price shown to two decimals, and the numbers refresh while the app stays open.",
+      "latest": "1.2.4",
+      "minSupported": "1.2.4",
+      "notes": "Nodes set up with GNOT can now be counted on the chain: the transactions your wallet signs here carry the public note 'Set up with GNOT'. It says nothing about you.",
       "arm64": {
-        "url": "https://github.com/gonkanetworkonboardinghub/gonka-host-setup/releases/download/v1.2.3/Gonka-Network-Onboarding-Tool-1.2.3-mac-arm64.zip",
-        "sha256": "8a91a1210859fece006a6b6a07f5b6ec08bcd6b764b630987890db0fcd50b407"
+        "url": "https://github.com/gonkanetworkonboardinghub/gonka-host-setup/releases/download/v1.2.4/Gonka-Network-Onboarding-Tool-1.2.4-mac-arm64.zip",
+        "sha256": "dfdce31b029aa554a71c07494c32d81dbe4df224a3f4d3e6c67a41a85261ccfb"
       },
       "x64": {
-        "url": "https://github.com/gonkanetworkonboardinghub/gonka-host-setup/releases/download/v1.2.3/Gonka-Network-Onboarding-Tool-1.2.3-mac-x64.zip",
-        "sha256": "d526a92f245700f788841ae2cb7040de2a3e9ea6005a4fcb7e0333ffc2beb840"
+        "url": "https://github.com/gonkanetworkonboardinghub/gonka-host-setup/releases/download/v1.2.4/Gonka-Network-Onboarding-Tool-1.2.4-mac-x64.zip",
+        "sha256": "c8f6ef49966b52202488cc9f9113e04c2ecc543f541811947344deb2880e954a"
       }
     }
   }
