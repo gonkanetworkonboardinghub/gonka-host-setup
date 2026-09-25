@@ -1,22 +1,22 @@
 {
   "app": {
-    "latest": "1.3.2",
-    "minSupported": "1.3.2",
+    "latest": "1.3.3",
+    "minSupported": "1.3.3",
     "url": "https://github.com/gonkanetworkonboardinghub/gonka-host-setup/releases/latest/download/Gonka-Network-Onboarding-Tool.exe",
-    "installer": "https://github.com/gonkanetworkonboardinghub/gonka-host-setup/releases/download/v1.3.2/Gonka-Network-Onboarding-Tool-Setup-1.3.2.exe",
-    "sha256": "94266c45e80cc5bd333e4bc88634ec3f37ea59980fb360c1653ea348d8cc0ae7",
-    "notes": "When a model puts its whole reply in its thinking, the answer is shown instead of being folded away.",
+    "installer": "https://github.com/gonkanetworkonboardinghub/gonka-host-setup/releases/download/v1.3.3/Gonka-Network-Onboarding-Tool-Setup-1.3.3.exe",
+    "sha256": "058832d93b81d464bbd04fb073463f0df4d3d8e207fc253cedd1e701e403f58b",
+    "notes": "The app now reports its Use Gonka totals when it starts, not only after the next answer, and posts them to the right address.",
     "mac": {
-      "latest": "1.3.2",
-      "minSupported": "1.3.2",
-      "notes": "When a model puts its whole reply in its thinking, the answer is shown instead of being folded away.",
+      "latest": "1.3.3",
+      "minSupported": "1.3.3",
+      "notes": "The app now reports its Use Gonka totals when it starts, not only after the next answer, and posts them to the right address.",
       "arm64": {
-        "url": "https://github.com/gonkanetworkonboardinghub/gonka-host-setup/releases/download/v1.3.2/Gonka-Network-Onboarding-Tool-1.3.2-mac-arm64.zip",
-        "sha256": "a68c8e337fce21126279a1b810fcc7789ffa133157eadeb95bba5d45380ca3ab"
+        "url": "https://github.com/gonkanetworkonboardinghub/gonka-host-setup/releases/download/v1.3.3/Gonka-Network-Onboarding-Tool-1.3.3-mac-arm64.zip",
+        "sha256": "9878c381a886874796c37a7a36de714f767b873155288eb62326ffdc734c0a13"
       },
       "x64": {
-        "url": "https://github.com/gonkanetworkonboardinghub/gonka-host-setup/releases/download/v1.3.2/Gonka-Network-Onboarding-Tool-1.3.2-mac-x64.zip",
-        "sha256": "aa95f2b51720158fcb6e7789ed01c00be24b1201d86a2dea6dc477d359d5130f"
+        "url": "https://github.com/gonkanetworkonboardinghub/gonka-host-setup/releases/download/v1.3.3/Gonka-Network-Onboarding-Tool-1.3.3-mac-x64.zip",
+        "sha256": "478a6ff00670d4dbd0cf602782d21f3b7436095f90d4cebee7396c14be28abb6"
       }
     }
   },
