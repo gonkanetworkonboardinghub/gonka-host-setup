@@ -1,22 +1,22 @@
 {
   "app": {
-    "latest": "1.3.0",
-    "minSupported": "1.3.0",
+    "latest": "1.3.1",
+    "minSupported": "1.3.1",
     "url": "https://github.com/gonkanetworkonboardinghub/gonka-host-setup/releases/latest/download/Gonka-Network-Onboarding-Tool.exe",
-    "installer": "https://github.com/gonkanetworkonboardinghub/gonka-host-setup/releases/download/v1.3.0/Gonka-Network-Onboarding-Tool-Setup-1.3.0.exe",
-    "sha256": "25731a902071944cfafea7d3275784045fcb9b8b1572421c22d5adc867efe563",
-    "notes": "Use Gonka: chat with Gonka's models through your own account with any of eight services, and let it work on files in a folder you choose. Only models the network pays for are shown as ready. Updated to Electron 44 and every build is now signed by GitHub.",
+    "installer": "https://github.com/gonkanetworkonboardinghub/gonka-host-setup/releases/download/v1.3.1/Gonka-Network-Onboarding-Tool-Setup-1.3.1.exe",
+    "sha256": "e0ace2a58385f8bf486b085318f9ce759b555a3fe590ab834120b254a5f33a55",
+    "notes": "No service is singled out as recommended any more. Also fixes a crash that could hit the updater on this version of Electron, so updates install reliably.",
     "mac": {
-      "latest": "1.3.0",
-      "minSupported": "1.3.0",
-      "notes": "Use Gonka: chat with Gonka's models through your own account with any of eight services, and let it work on files in a folder you choose. Only models the network pays for are shown as ready. Updated to Electron 44 and every build is now signed by GitHub.",
+      "latest": "1.3.1",
+      "minSupported": "1.3.1",
+      "notes": "No service is singled out as recommended any more. Also fixes a crash that could hit the updater on this version of Electron, so updates install reliably.",
       "arm64": {
-        "url": "https://github.com/gonkanetworkonboardinghub/gonka-host-setup/releases/download/v1.3.0/Gonka-Network-Onboarding-Tool-1.3.0-mac-arm64.zip",
-        "sha256": "f2986db77df38fdee9a02b27bbcaa2cb37591cf6268c8aae3b643edd27ad2688"
+        "url": "https://github.com/gonkanetworkonboardinghub/gonka-host-setup/releases/download/v1.3.1/Gonka-Network-Onboarding-Tool-1.3.1-mac-arm64.zip",
+        "sha256": "67c5473dfd61feb33a0b46ee37b91c2c6b9b52f67b1ae0aa0c3b926ec2fd79f9"
       },
       "x64": {
-        "url": "https://github.com/gonkanetworkonboardinghub/gonka-host-setup/releases/download/v1.3.0/Gonka-Network-Onboarding-Tool-1.3.0-mac-x64.zip",
-        "sha256": "06831153134ea70d22f21245357c24dea32cacd94c841f7f5791a5e663b28824"
+        "url": "https://github.com/gonkanetworkonboardinghub/gonka-host-setup/releases/download/v1.3.1/Gonka-Network-Onboarding-Tool-1.3.1-mac-x64.zip",
+        "sha256": "5155d2d2c0b5f5c0a3fe7cebc6756057ce845f83f1a858e0cf3c377e93174f84"
       }
     }
   }
