@@ -19,5 +19,6 @@
         "sha256": "aa95f2b51720158fcb6e7789ed01c00be24b1201d86a2dea6dc477d359d5130f"
       }
     }
-  }
+  },
+  "usageEndpoint": "https://thegonkanetworkonboardinghub.com/functions/gnot-usage"
 }
