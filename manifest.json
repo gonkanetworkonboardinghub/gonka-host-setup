@@ -1,23 +1,23 @@
 {
   "usageEndpoint": "https://thegonkanetworkonboardinghub.com/functions/gnot-usage",
   "app": {
-    "latest": "1.3.4",
-    "minSupported": "1.3.4",
+    "latest": "1.3.6",
+    "minSupported": "1.3.6",
     "url": "https://github.com/gonkanetworkonboardinghub/gonka-host-setup/releases/latest/download/Gonka-Network-Onboarding-Tool.exe",
-    "installer": "https://github.com/gonkanetworkonboardinghub/gonka-host-setup/releases/download/v1.3.4/Gonka-Network-Onboarding-Tool-Setup-1.3.4.exe",
-    "sha256": "9d666460e3bd93e4a853ac0277a894909ebaf10d3d65dcd48955c9e4d7102aef",
-    "notes": "Gonka Host Setup shows its list of steps down the side again.",
+    "installer": "https://github.com/gonkanetworkonboardinghub/gonka-host-setup/releases/download/v1.3.6/Gonka-Network-Onboarding-Tool-Setup-1.3.6.exe",
+    "sha256": "22facce12e9504bdd0c2e4c0c8a3ca39726c8c8afde8b980ae7e7d6d80b0459a",
+    "notes": "Use Gonka works better in a folder: it shows which step it is on, always ends with an answer, only shows what it cost once it has really finished, stops itself if it keeps repeating the same step, and asks for a file name instead of answering \"that is a folder\". The app now also sends its usage total when you close it, not only when you open it.",
     "mac": {
-      "latest": "1.3.4",
-      "minSupported": "1.3.4",
-      "notes": "Gonka Host Setup shows its list of steps down the side again.",
+      "latest": "1.3.6",
+      "minSupported": "1.3.6",
+      "notes": "Use Gonka works better in a folder: it shows which step it is on, always ends with an answer, only shows what it cost once it has really finished, stops itself if it keeps repeating the same step, and asks for a file name instead of answering \"that is a folder\". The app now also sends its usage total when you close it, not only when you open it.",
       "arm64": {
-        "url": "https://github.com/gonkanetworkonboardinghub/gonka-host-setup/releases/download/v1.3.4/Gonka-Network-Onboarding-Tool-1.3.4-mac-arm64.zip",
-        "sha256": "e4efcb41b22b36c7c921233d6ae6ab13b4d76e9dbe9ace3110d1c200cb404978"
+        "url": "https://github.com/gonkanetworkonboardinghub/gonka-host-setup/releases/download/v1.3.6/Gonka-Network-Onboarding-Tool-1.3.6-mac-arm64.zip",
+        "sha256": "f01e8a5819ab0d0b9092671d99f5eec8ce857433c846a3fb1e9e3099d59a98ee"
       },
       "x64": {
-        "url": "https://github.com/gonkanetworkonboardinghub/gonka-host-setup/releases/download/v1.3.4/Gonka-Network-Onboarding-Tool-1.3.4-mac-x64.zip",
-        "sha256": "0af6fdd3b91e93feeed4e605a3d795514337dccd879d306fa9cea9572dd60132"
+        "url": "https://github.com/gonkanetworkonboardinghub/gonka-host-setup/releases/download/v1.3.6/Gonka-Network-Onboarding-Tool-1.3.6-mac-x64.zip",
+        "sha256": "9e696fe85bbbd6d53333d1428b230a38fe8cfd083b31b32f9e445f2561520432"
       }
     }
   }
