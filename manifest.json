@@ -1,23 +1,23 @@
 {
   "usageEndpoint": "https://thegonkanetworkonboardinghub.com/functions/gnot-usage",
   "app": {
-    "latest": "1.3.7",
-    "minSupported": "1.3.7",
+    "latest": "1.3.8",
+    "minSupported": "1.3.8",
     "url": "https://github.com/gonkanetworkonboardinghub/gonka-host-setup/releases/latest/download/Gonka-Network-Onboarding-Tool.exe",
-    "installer": "https://github.com/gonkanetworkonboardinghub/gonka-host-setup/releases/download/v1.3.7/Gonka-Network-Onboarding-Tool-Setup-1.3.7.exe",
-    "sha256": "8b165d414cd462b71030767c0ca134e2a18c97fe06fe3099bd7d3212c09fa377",
-    "notes": "Use Gonka, working in a folder: the real reason a long file came back as \"no file name was given\". The service was cutting the answer off in the middle of writing the file, and the half-written call was run as if it were whole. Answers now have room for 8,192 tokens and up to ten minutes to arrive, a cut-off step says so plainly and nothing half-written is ever run, the model is told to write one file per turn, and the working line counts the seconds so a long write no longer looks frozen.",
+    "installer": "https://github.com/gonkanetworkonboardinghub/gonka-host-setup/releases/download/v1.3.8/Gonka-Network-Onboarding-Tool-Setup-1.3.8.exe",
+    "sha256": "2930a515d12816751eb3e9276ae6f5078cedfa73b973bc0886a24b6861796c9e",
+    "notes": "Working in a folder now survives the commonest way a model gets it wrong. A file travels inside a strict envelope and models pack it badly, especially anything with code in it; the app now reads the file out of a badly packed one and shows you the whole thing before writing, as always. A call that genuinely arrives incomplete says so truthfully instead of blaming the length. Long files can be written in parts, so a whole game no longer has to fit in one reply. A plain answer cut short at its length limit now says so too. And Use Gonka now states plainly, before you pick a service and at the top of every conversation, that what you send travels to whichever computer on the network answers it and whoever runs it can see it.",
     "mac": {
-      "latest": "1.3.7",
-      "minSupported": "1.3.7",
-      "notes": "Use Gonka, working in a folder: the real reason a long file came back as \"no file name was given\". The service was cutting the answer off in the middle of writing the file, and the half-written call was run as if it were whole. Answers now have room for 8,192 tokens and up to ten minutes to arrive, a cut-off step says so plainly and nothing half-written is ever run, the model is told to write one file per turn, and the working line counts the seconds so a long write no longer looks frozen.",
+      "latest": "1.3.8",
+      "minSupported": "1.3.8",
+      "notes": "Working in a folder now survives the commonest way a model gets it wrong. A file travels inside a strict envelope and models pack it badly, especially anything with code in it; the app now reads the file out of a badly packed one and shows you the whole thing before writing, as always. A call that genuinely arrives incomplete says so truthfully instead of blaming the length. Long files can be written in parts, so a whole game no longer has to fit in one reply. A plain answer cut short at its length limit now says so too. And Use Gonka now states plainly, before you pick a service and at the top of every conversation, that what you send travels to whichever computer on the network answers it and whoever runs it can see it.",
       "arm64": {
-        "url": "https://github.com/gonkanetworkonboardinghub/gonka-host-setup/releases/download/v1.3.7/Gonka-Network-Onboarding-Tool-1.3.7-mac-arm64.zip",
-        "sha256": "e32c535d30e2dde41dad7a989f079cd6c368f62b0ffb90db5df95cf77d76f3de"
+        "url": "https://github.com/gonkanetworkonboardinghub/gonka-host-setup/releases/download/v1.3.8/Gonka-Network-Onboarding-Tool-1.3.8-mac-arm64.zip",
+        "sha256": "494358a88f0b856f19acb9053f4da4ca91f5675de8e0429a9d3aec11593153e0"
       },
       "x64": {
-        "url": "https://github.com/gonkanetworkonboardinghub/gonka-host-setup/releases/download/v1.3.7/Gonka-Network-Onboarding-Tool-1.3.7-mac-x64.zip",
-        "sha256": "d3c7e7dc7b8945196aea594db162ce68375c2fb2c771267bc3598a500b43d651"
+        "url": "https://github.com/gonkanetworkonboardinghub/gonka-host-setup/releases/download/v1.3.8/Gonka-Network-Onboarding-Tool-1.3.8-mac-x64.zip",
+        "sha256": "c6a151ab368a91387ffa5657293ff18d06616fac1c2415a49b0659f42b451037"
       }
     }
   }
