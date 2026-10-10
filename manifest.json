@@ -1,23 +1,23 @@
 {
   "usageEndpoint": "https://thegonkanetworkonboardinghub.com/functions/gnot-usage",
   "app": {
-    "latest": "1.3.8",
-    "minSupported": "1.3.8",
+    "latest": "1.3.9",
+    "minSupported": "1.3.9",
     "url": "https://github.com/gonkanetworkonboardinghub/gonka-host-setup/releases/latest/download/Gonka-Network-Onboarding-Tool.exe",
-    "installer": "https://github.com/gonkanetworkonboardinghub/gonka-host-setup/releases/download/v1.3.8/Gonka-Network-Onboarding-Tool-Setup-1.3.8.exe",
-    "sha256": "2930a515d12816751eb3e9276ae6f5078cedfa73b973bc0886a24b6861796c9e",
-    "notes": "Working in a folder now survives the commonest way a model gets it wrong. A file travels inside a strict envelope and models pack it badly, especially anything with code in it; the app now reads the file out of a badly packed one and shows you the whole thing before writing, as always. A call that genuinely arrives incomplete says so truthfully instead of blaming the length. Long files can be written in parts, so a whole game no longer has to fit in one reply. A plain answer cut short at its length limit now says so too. And Use Gonka now states plainly, before you pick a service and at the top of every conversation, that what you send travels to whichever computer on the network answers it and whoever runs it can see it.",
+    "installer": "https://github.com/gonkanetworkonboardinghub/gonka-host-setup/releases/download/v1.3.9/Gonka-Network-Onboarding-Tool-Setup-1.3.9.exe",
+    "sha256": "3bc09bc4b1a92b5fea1f0eae48067bf67765326ca3e378f39fff07665de08022",
+    "notes": "Counting made exact. The app now says when it is opened (a random number for the computer, the version, and Windows or Mac, nothing else), so the website counts the computers using it instead of estimating from downloads. Use Gonka totals go out every fifteen minutes instead of once a day. Two small counting faults are fixed: answers that arrived during a send could be lost, and two sends at once could count the same answers twice. The app says all of this plainly on the service list, the Account page and the Gonka Host Setup welcome screen. Electron is updated to 44.7.0 for its security fixes.",
     "mac": {
-      "latest": "1.3.8",
-      "minSupported": "1.3.8",
-      "notes": "Working in a folder now survives the commonest way a model gets it wrong. A file travels inside a strict envelope and models pack it badly, especially anything with code in it; the app now reads the file out of a badly packed one and shows you the whole thing before writing, as always. A call that genuinely arrives incomplete says so truthfully instead of blaming the length. Long files can be written in parts, so a whole game no longer has to fit in one reply. A plain answer cut short at its length limit now says so too. And Use Gonka now states plainly, before you pick a service and at the top of every conversation, that what you send travels to whichever computer on the network answers it and whoever runs it can see it.",
+      "latest": "1.3.9",
+      "minSupported": "1.3.9",
+      "notes": "Counting made exact. The app now says when it is opened (a random number for the computer, the version, and Windows or Mac, nothing else), so the website counts the computers using it instead of estimating from downloads. Use Gonka totals go out every fifteen minutes instead of once a day. Two small counting faults are fixed: answers that arrived during a send could be lost, and two sends at once could count the same answers twice. The app says all of this plainly on the service list, the Account page and the Gonka Host Setup welcome screen. Electron is updated to 44.7.0 for its security fixes.",
       "arm64": {
-        "url": "https://github.com/gonkanetworkonboardinghub/gonka-host-setup/releases/download/v1.3.8/Gonka-Network-Onboarding-Tool-1.3.8-mac-arm64.zip",
-        "sha256": "494358a88f0b856f19acb9053f4da4ca91f5675de8e0429a9d3aec11593153e0"
+        "url": "https://github.com/gonkanetworkonboardinghub/gonka-host-setup/releases/download/v1.3.9/Gonka-Network-Onboarding-Tool-1.3.9-mac-arm64.zip",
+        "sha256": "3b1e0e53fa79a4100f3f858e1d5ae563832b4f78d2597f310cd19bd8f13a0572"
       },
       "x64": {
-        "url": "https://github.com/gonkanetworkonboardinghub/gonka-host-setup/releases/download/v1.3.8/Gonka-Network-Onboarding-Tool-1.3.8-mac-x64.zip",
-        "sha256": "c6a151ab368a91387ffa5657293ff18d06616fac1c2415a49b0659f42b451037"
+        "url": "https://github.com/gonkanetworkonboardinghub/gonka-host-setup/releases/download/v1.3.9/Gonka-Network-Onboarding-Tool-1.3.9-mac-x64.zip",
+        "sha256": "f1e3049758492950cd837c17905bd2d2fd4eede8bec22c3f1f6c6696c97594cf"
       }
     }
   }
