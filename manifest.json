@@ -1,5 +1,25 @@
 {
   "usageEndpoint": "https://thegonkanetworkonboardinghub.com/functions/gnot-usage",
+  "mlOpsPermissions": [
+    "/inference.inference.MsgClaimRewards",
+    "/inference.inference.MsgSubmitPocBatch",
+    "/inference.inference.MsgSubmitPocValidationsV2",
+    "/inference.inference.MsgPoCV2StoreCommit",
+    "/inference.inference.MsgSubmitPoCChallengeValidations",
+    "/inference.inference.MsgPoCChallengeStoreCommit",
+    "/inference.inference.MsgMLNodeWeightDistribution",
+    "/inference.inference.MsgSubmitSeed",
+    "/inference.inference.MsgBridgeExchange",
+    "/inference.inference.MsgSubmitNewUnfundedParticipant",
+    "/inference.inference.MsgSubmitHardwareDiff",
+    "/inference.inference.MsgDeclarePoCIntent",
+    "/inference.bls.MsgSubmitDealerPart",
+    "/inference.bls.MsgSubmitVerificationVector",
+    "/inference.bls.MsgRespondDealerComplaints",
+    "/inference.bls.MsgSubmitPartialSignature",
+    "/inference.bls.MsgSubmitGroupKeyValidationSignature"
+  ],
+  "gasPriceNgonka": 1,
   "app": {
     "latest": "1.3.9",
     "minSupported": "1.3.9",
