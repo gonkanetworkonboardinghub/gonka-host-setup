@@ -21,23 +21,23 @@
   ],
   "gasPriceNgonka": 1,
   "app": {
-    "latest": "1.3.9",
-    "minSupported": "1.3.9",
+    "latest": "1.4.0",
+    "minSupported": "1.4.0",
     "url": "https://github.com/gonkanetworkonboardinghub/gonka-host-setup/releases/latest/download/Gonka-Network-Onboarding-Tool.exe",
-    "installer": "https://github.com/gonkanetworkonboardinghub/gonka-host-setup/releases/download/v1.3.9/Gonka-Network-Onboarding-Tool-Setup-1.3.9.exe",
-    "sha256": "3bc09bc4b1a92b5fea1f0eae48067bf67765326ca3e378f39fff07665de08022",
-    "notes": "Counting made exact. The app now says when it is opened (a random number for the computer, the version, and Windows or Mac, nothing else), so the website counts the computers using it instead of estimating from downloads. Use Gonka totals go out every fifteen minutes instead of once a day. Two small counting faults are fixed: answers that arrived during a send could be lost, and two sends at once could count the same answers twice. The app says all of this plainly on the service list, the Account page and the Gonka Host Setup welcome screen. Electron is updated to 44.7.0 for its security fixes.",
+    "installer": "https://github.com/gonkanetworkonboardinghub/gonka-host-setup/releases/download/v1.4.0/Gonka-Network-Onboarding-Tool-Setup-1.4.0.exe",
+    "sha256": "b243d9edb6f7b256f31d70e0f810416b06a914b79756b6037b5f5309e90a5050",
+    "notes": "Brought up to date with Gonka's v0.2.16 upgrade. A node now pays a network fee for every Proof of Compute, so the Wallet step says what the wallet has to hold (about 10 GNK to start, by Gonka's guide) and no longer says one faucet claim is enough. The Verify step asks your node whether it can pay this epoch's fees and says the answer plainly. The permission list matches the new chain, and granting it costs a tenth of what it did. The app is now compared with the live network every day: it tells you before you rent a server when Gonka has changed and this copy has not been checked against it yet, and it takes Gonka's corrected permission list by itself.",
     "mac": {
-      "latest": "1.3.9",
-      "minSupported": "1.3.9",
-      "notes": "Counting made exact. The app now says when it is opened (a random number for the computer, the version, and Windows or Mac, nothing else), so the website counts the computers using it instead of estimating from downloads. Use Gonka totals go out every fifteen minutes instead of once a day. Two small counting faults are fixed: answers that arrived during a send could be lost, and two sends at once could count the same answers twice. The app says all of this plainly on the service list, the Account page and the Gonka Host Setup welcome screen. Electron is updated to 44.7.0 for its security fixes.",
+      "latest": "1.4.0",
+      "minSupported": "1.4.0",
+      "notes": "Brought up to date with Gonka's v0.2.16 upgrade. A node now pays a network fee for every Proof of Compute, so the Wallet step says what the wallet has to hold (about 10 GNK to start, by Gonka's guide) and no longer says one faucet claim is enough. The Verify step asks your node whether it can pay this epoch's fees and says the answer plainly. The permission list matches the new chain, and granting it costs a tenth of what it did. The app is now compared with the live network every day: it tells you before you rent a server when Gonka has changed and this copy has not been checked against it yet, and it takes Gonka's corrected permission list by itself.",
       "arm64": {
-        "url": "https://github.com/gonkanetworkonboardinghub/gonka-host-setup/releases/download/v1.3.9/Gonka-Network-Onboarding-Tool-1.3.9-mac-arm64.zip",
-        "sha256": "3b1e0e53fa79a4100f3f858e1d5ae563832b4f78d2597f310cd19bd8f13a0572"
+        "url": "https://github.com/gonkanetworkonboardinghub/gonka-host-setup/releases/download/v1.4.0/Gonka-Network-Onboarding-Tool-1.4.0-mac-arm64.zip",
+        "sha256": "0efec0c78db8fc4b9867879d486309ab9c0b3f445b519d1617e4901275dc25c7"
       },
       "x64": {
-        "url": "https://github.com/gonkanetworkonboardinghub/gonka-host-setup/releases/download/v1.3.9/Gonka-Network-Onboarding-Tool-1.3.9-mac-x64.zip",
-        "sha256": "f1e3049758492950cd837c17905bd2d2fd4eede8bec22c3f1f6c6696c97594cf"
+        "url": "https://github.com/gonkanetworkonboardinghub/gonka-host-setup/releases/download/v1.4.0/Gonka-Network-Onboarding-Tool-1.4.0-mac-x64.zip",
+        "sha256": "a0b2e787636a5f30e65f9a8e87072a037e926dc59068086ebf8bf28cd85c9377"
       }
     }
   }
