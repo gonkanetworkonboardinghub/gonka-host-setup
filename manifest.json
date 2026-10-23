@@ -21,23 +21,23 @@
   ],
   "gasPriceNgonka": 1,
   "app": {
-    "latest": "1.4.0",
-    "minSupported": "1.4.0",
+    "latest": "1.5.0",
+    "minSupported": "1.5.0",
     "url": "https://github.com/gonkanetworkonboardinghub/gonka-host-setup/releases/latest/download/Gonka-Network-Onboarding-Tool.exe",
-    "installer": "https://github.com/gonkanetworkonboardinghub/gonka-host-setup/releases/download/v1.4.0/Gonka-Network-Onboarding-Tool-Setup-1.4.0.exe",
-    "sha256": "b243d9edb6f7b256f31d70e0f810416b06a914b79756b6037b5f5309e90a5050",
-    "notes": "Brought up to date with Gonka's v0.2.16 upgrade. A node now pays a network fee for every Proof of Compute, so the Wallet step says what the wallet has to hold (about 10 GNK to start, by Gonka's guide) and no longer says one faucet claim is enough. The Verify step asks your node whether it can pay this epoch's fees and says the answer plainly. The permission list matches the new chain, and granting it costs a tenth of what it did. The app is now compared with the live network every day: it tells you before you rent a server when Gonka has changed and this copy has not been checked against it yet, and it takes Gonka's corrected permission list by itself.",
+    "installer": "https://github.com/gonkanetworkonboardinghub/gonka-host-setup/releases/download/v1.5.0/Gonka-Network-Onboarding-Tool-Setup-1.5.0.exe",
+    "sha256": "bd65d52a20c99393c1c68160121ba03f5dce2df9275e8841fa9f89be4e5fdf60",
+    "notes": "New: Gonka Host Monitor/Vote. See your own nodes next to every host on the network, the network as a whole (GPUs, rewards, GNK price, GNK in existence, the community pool) and every proposal, with how your nodes voted. A simpler home screen with the two things the app does: set up a node, and watch nodes and vote. Use Gonka is gone: the app is now about running a node. Ready for Gonka's next version, v0.2.17, now on Gonka's test network: when the network stops registering new hosts for them, the app signs the registration with your wallet (about 0.0002 GNK), and on servers with an NVIDIA driver older than 580 it picks the ML node image Gonka names for them.",
     "mac": {
-      "latest": "1.4.0",
-      "minSupported": "1.4.0",
-      "notes": "Brought up to date with Gonka's v0.2.16 upgrade. A node now pays a network fee for every Proof of Compute, so the Wallet step says what the wallet has to hold (about 10 GNK to start, by Gonka's guide) and no longer says one faucet claim is enough. The Verify step asks your node whether it can pay this epoch's fees and says the answer plainly. The permission list matches the new chain, and granting it costs a tenth of what it did. The app is now compared with the live network every day: it tells you before you rent a server when Gonka has changed and this copy has not been checked against it yet, and it takes Gonka's corrected permission list by itself.",
+      "latest": "1.5.0",
+      "minSupported": "1.5.0",
+      "notes": "New: Gonka Host Monitor/Vote. See your own nodes next to every host on the network, the network as a whole (GPUs, rewards, GNK price, GNK in existence, the community pool) and every proposal, with how your nodes voted. A simpler home screen with the two things the app does: set up a node, and watch nodes and vote. Use Gonka is gone: the app is now about running a node. Ready for Gonka's next version, v0.2.17, now on Gonka's test network: when the network stops registering new hosts for them, the app signs the registration with your wallet (about 0.0002 GNK), and on servers with an NVIDIA driver older than 580 it picks the ML node image Gonka names for them.",
       "arm64": {
-        "url": "https://github.com/gonkanetworkonboardinghub/gonka-host-setup/releases/download/v1.4.0/Gonka-Network-Onboarding-Tool-1.4.0-mac-arm64.zip",
-        "sha256": "0efec0c78db8fc4b9867879d486309ab9c0b3f445b519d1617e4901275dc25c7"
+        "url": "https://github.com/gonkanetworkonboardinghub/gonka-host-setup/releases/download/v1.5.0/Gonka-Network-Onboarding-Tool-1.5.0-mac-arm64.zip",
+        "sha256": "d134048f1aee5e6bca8950b6bf5aa4bf53b1a6c39cf9fea05c2b383b5b0a4664"
       },
       "x64": {
-        "url": "https://github.com/gonkanetworkonboardinghub/gonka-host-setup/releases/download/v1.4.0/Gonka-Network-Onboarding-Tool-1.4.0-mac-x64.zip",
-        "sha256": "a0b2e787636a5f30e65f9a8e87072a037e926dc59068086ebf8bf28cd85c9377"
+        "url": "https://github.com/gonkanetworkonboardinghub/gonka-host-setup/releases/download/v1.5.0/Gonka-Network-Onboarding-Tool-1.5.0-mac-x64.zip",
+        "sha256": "3184047cbb651847ee259ffaa060f391272f714238f7ac2b5931befd517b3f58"
       }
     }
   }
