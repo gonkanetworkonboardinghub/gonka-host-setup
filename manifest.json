@@ -21,23 +21,23 @@
   ],
   "gasPriceNgonka": 1,
   "app": {
-    "latest": "1.6.2",
-    "minSupported": "1.6.2",
+    "latest": "1.7.0",
+    "minSupported": "1.7.0",
     "url": "https://github.com/gonkanetworkonboardinghub/gonka-host-setup/releases/latest/download/Gonka-Network-Onboarding-Tool.exe",
-    "installer": "https://github.com/gonkanetworkonboardinghub/gonka-host-setup/releases/download/v1.6.2/Gonka-Network-Onboarding-Tool-Setup-1.6.2.exe",
-    "sha256": "50cf93777cd9f7a01e245021207113d0375149d3610489183ec3fda0b7213afc",
-    "notes": "Host Setup's first step now lists whole 8-GPU servers next to each setup. Pick one to see which of Gonka's setups it runs and how many copies at once, how many such machines run that model now, and the memory a server that size needs. The Model step then picks that setup for you.",
+    "installer": "https://github.com/gonkanetworkonboardinghub/gonka-host-setup/releases/download/v1.7.0/Gonka-Network-Onboarding-Tool-Setup-1.7.0.exe",
+    "sha256": "e93f1a2a3f1cbdd3bc371bb008619319cf55d734469f7ded85e42fdc7db1bc34",
+    "notes": "Mine it or buy it: compare with providers — what renting each rig costs at Spheron right now (dedicated servers only), against what it earns, cheapest first, with a way to use that price in the calculator. Every rig shows how many machines on the network run it right now, every setup GNOT can set up is in the calculator (B200 and A100 too), and Host Setup's first page has a What it earns button for the setup you pick. Host Setup now says to rent a dedicated server, never spot: a spot server can be taken back mid-epoch and then that epoch pays nothing. Every loading screen shows a moving chain of blocks.",
     "mac": {
-      "latest": "1.6.2",
-      "minSupported": "1.6.2",
-      "notes": "Host Setup's first step now lists whole 8-GPU servers next to each setup. Pick one to see which of Gonka's setups it runs and how many copies at once, how many such machines run that model now, and the memory a server that size needs. The Model step then picks that setup for you.",
+      "latest": "1.7.0",
+      "minSupported": "1.7.0",
+      "notes": "Mine it or buy it: compare with providers — what renting each rig costs at Spheron right now (dedicated servers only), against what it earns, cheapest first, with a way to use that price in the calculator. Every rig shows how many machines on the network run it right now, every setup GNOT can set up is in the calculator (B200 and A100 too), and Host Setup's first page has a What it earns button for the setup you pick. Host Setup now says to rent a dedicated server, never spot: a spot server can be taken back mid-epoch and then that epoch pays nothing. Every loading screen shows a moving chain of blocks.",
       "arm64": {
-        "url": "https://github.com/gonkanetworkonboardinghub/gonka-host-setup/releases/download/v1.6.2/Gonka-Network-Onboarding-Tool-1.6.2-mac-arm64.zip",
-        "sha256": "02207332b554e31f360ee0048ab163ef8a33a88e7e05a1ae7b6b51428e5c7f01"
+        "url": "https://github.com/gonkanetworkonboardinghub/gonka-host-setup/releases/download/v1.7.0/Gonka-Network-Onboarding-Tool-1.7.0-mac-arm64.zip",
+        "sha256": "60f6e019aa06e52519c5813ff609fbb7e2bfa2206e00a6848fb94e66515b3acc"
       },
       "x64": {
-        "url": "https://github.com/gonkanetworkonboardinghub/gonka-host-setup/releases/download/v1.6.2/Gonka-Network-Onboarding-Tool-1.6.2-mac-x64.zip",
-        "sha256": "429a0870f6f06f8e09565dad83ec7e4596961aabb855da078cccce440cfaf3d6"
+        "url": "https://github.com/gonkanetworkonboardinghub/gonka-host-setup/releases/download/v1.7.0/Gonka-Network-Onboarding-Tool-1.7.0-mac-x64.zip",
+        "sha256": "e33b5f369d5e614982218738fc51a1f07c857a21c2863edf8129b1479d108bc2"
       }
     }
   }
