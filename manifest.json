@@ -21,23 +21,23 @@
   ],
   "gasPriceNgonka": 1,
   "app": {
-    "latest": "1.6.1",
-    "minSupported": "1.6.1",
+    "latest": "1.6.2",
+    "minSupported": "1.6.2",
     "url": "https://github.com/gonkanetworkonboardinghub/gonka-host-setup/releases/latest/download/Gonka-Network-Onboarding-Tool.exe",
-    "installer": "https://github.com/gonkanetworkonboardinghub/gonka-host-setup/releases/download/v1.6.1/Gonka-Network-Onboarding-Tool-Setup-1.6.1.exe",
-    "sha256": "a4aea7cc1ce960047c6e48476a8c41fec5ecce578e33753b55ca46d569a7245e",
-    "notes": "Mine it or buy it now shows what a host that does its work really earns: hosts that were paid nothing no longer pull every figure down. Whole 8-GPU servers are listed next to each setup, along with more of the GPU kinds hosts are paid for, and setups no host runs yet are named. Host Setup: a server with two, four or eight times the GPUs a setup needs now fits it, and runs one copy per set of GPUs.",
+    "installer": "https://github.com/gonkanetworkonboardinghub/gonka-host-setup/releases/download/v1.6.2/Gonka-Network-Onboarding-Tool-Setup-1.6.2.exe",
+    "sha256": "50cf93777cd9f7a01e245021207113d0375149d3610489183ec3fda0b7213afc",
+    "notes": "Host Setup's first step now lists whole 8-GPU servers next to each setup. Pick one to see which of Gonka's setups it runs and how many copies at once, how many such machines run that model now, and the memory a server that size needs. The Model step then picks that setup for you.",
     "mac": {
-      "latest": "1.6.1",
-      "minSupported": "1.6.1",
-      "notes": "Mine it or buy it now shows what a host that does its work really earns: hosts that were paid nothing no longer pull every figure down. Whole 8-GPU servers are listed next to each setup, along with more of the GPU kinds hosts are paid for, and setups no host runs yet are named. Host Setup: a server with two, four or eight times the GPUs a setup needs now fits it, and runs one copy per set of GPUs.",
+      "latest": "1.6.2",
+      "minSupported": "1.6.2",
+      "notes": "Host Setup's first step now lists whole 8-GPU servers next to each setup. Pick one to see which of Gonka's setups it runs and how many copies at once, how many such machines run that model now, and the memory a server that size needs. The Model step then picks that setup for you.",
       "arm64": {
-        "url": "https://github.com/gonkanetworkonboardinghub/gonka-host-setup/releases/download/v1.6.1/Gonka-Network-Onboarding-Tool-1.6.1-mac-arm64.zip",
-        "sha256": "39840a763686e90d1b2058b443bbcb14eccc37aaf848a24f63141265cc9bd95b"
+        "url": "https://github.com/gonkanetworkonboardinghub/gonka-host-setup/releases/download/v1.6.2/Gonka-Network-Onboarding-Tool-1.6.2-mac-arm64.zip",
+        "sha256": "02207332b554e31f360ee0048ab163ef8a33a88e7e05a1ae7b6b51428e5c7f01"
       },
       "x64": {
-        "url": "https://github.com/gonkanetworkonboardinghub/gonka-host-setup/releases/download/v1.6.1/Gonka-Network-Onboarding-Tool-1.6.1-mac-x64.zip",
-        "sha256": "bcab3e390e1cc013a69d39931396310989ef09e1c4190a814a797ab44806b3c4"
+        "url": "https://github.com/gonkanetworkonboardinghub/gonka-host-setup/releases/download/v1.6.2/Gonka-Network-Onboarding-Tool-1.6.2-mac-x64.zip",
+        "sha256": "429a0870f6f06f8e09565dad83ec7e4596961aabb855da078cccce440cfaf3d6"
       }
     }
   }
