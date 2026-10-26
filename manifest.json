@@ -21,23 +21,23 @@
   ],
   "gasPriceNgonka": 1,
   "app": {
-    "latest": "1.7.0",
-    "minSupported": "1.7.0",
+    "latest": "1.7.1",
+    "minSupported": "1.7.1",
     "url": "https://github.com/gonkanetworkonboardinghub/gonka-host-setup/releases/latest/download/Gonka-Network-Onboarding-Tool.exe",
-    "installer": "https://github.com/gonkanetworkonboardinghub/gonka-host-setup/releases/download/v1.7.0/Gonka-Network-Onboarding-Tool-Setup-1.7.0.exe",
-    "sha256": "e93f1a2a3f1cbdd3bc371bb008619319cf55d734469f7ded85e42fdc7db1bc34",
-    "notes": "Mine it or buy it: compare with providers — what renting each rig costs at Spheron right now (dedicated servers only), against what it earns, cheapest first, with a way to use that price in the calculator. Every rig shows how many machines on the network run it right now, every setup GNOT can set up is in the calculator (B200 and A100 too), and Host Setup's first page has a What it earns button for the setup you pick. Host Setup now says to rent a dedicated server, never spot: a spot server can be taken back mid-epoch and then that epoch pays nothing. Every loading screen shows a moving chain of blocks.",
+    "installer": "https://github.com/gonkanetworkonboardinghub/gonka-host-setup/releases/download/v1.7.1/Gonka-Network-Onboarding-Tool-Setup-1.7.1.exe",
+    "sha256": "458c18fd05e7aac2ae65795df42a7b54f4539ebc0af727a5aa45a9d3b5a353b7",
+    "notes": "Host Setup now follows what Gonka's current ML node images need: CUDA 13 (NVIDIA driver 580 or newer), or CUDA 12.9 with Gonka's fallback image, which GNOT now picks by itself on a server with an older driver (before, such a server could be given the CUDA 13 image and fail late in the setup). The health check, the driver fix (now driver 580), What your server needs and Compare with providers all use the same rule, and the providers' offers show which CUDA they come with.",
     "mac": {
-      "latest": "1.7.0",
-      "minSupported": "1.7.0",
-      "notes": "Mine it or buy it: compare with providers — what renting each rig costs at Spheron right now (dedicated servers only), against what it earns, cheapest first, with a way to use that price in the calculator. Every rig shows how many machines on the network run it right now, every setup GNOT can set up is in the calculator (B200 and A100 too), and Host Setup's first page has a What it earns button for the setup you pick. Host Setup now says to rent a dedicated server, never spot: a spot server can be taken back mid-epoch and then that epoch pays nothing. Every loading screen shows a moving chain of blocks.",
+      "latest": "1.7.1",
+      "minSupported": "1.7.1",
+      "notes": "Host Setup now follows what Gonka's current ML node images need: CUDA 13 (NVIDIA driver 580 or newer), or CUDA 12.9 with Gonka's fallback image, which GNOT now picks by itself on a server with an older driver (before, such a server could be given the CUDA 13 image and fail late in the setup). The health check, the driver fix (now driver 580), What your server needs and Compare with providers all use the same rule, and the providers' offers show which CUDA they come with.",
       "arm64": {
-        "url": "https://github.com/gonkanetworkonboardinghub/gonka-host-setup/releases/download/v1.7.0/Gonka-Network-Onboarding-Tool-1.7.0-mac-arm64.zip",
-        "sha256": "60f6e019aa06e52519c5813ff609fbb7e2bfa2206e00a6848fb94e66515b3acc"
+        "url": "https://github.com/gonkanetworkonboardinghub/gonka-host-setup/releases/download/v1.7.1/Gonka-Network-Onboarding-Tool-1.7.1-mac-arm64.zip",
+        "sha256": "12beb43c34a65fcab476a81323980f6b4f7de4cddd7eca9131e6917010c96406"
       },
       "x64": {
-        "url": "https://github.com/gonkanetworkonboardinghub/gonka-host-setup/releases/download/v1.7.0/Gonka-Network-Onboarding-Tool-1.7.0-mac-x64.zip",
-        "sha256": "e33b5f369d5e614982218738fc51a1f07c857a21c2863edf8129b1479d108bc2"
+        "url": "https://github.com/gonkanetworkonboardinghub/gonka-host-setup/releases/download/v1.7.1/Gonka-Network-Onboarding-Tool-1.7.1-mac-x64.zip",
+        "sha256": "aebc19b4c532cc999a714ae483112523f9696ee17b8fd8a8dc03ca2b59c81b00"
       }
     }
   }
