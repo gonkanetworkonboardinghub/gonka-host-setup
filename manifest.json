@@ -21,23 +21,23 @@
   ],
   "gasPriceNgonka": 1,
   "app": {
-    "latest": "1.6.0",
-    "minSupported": "1.6.0",
+    "latest": "1.6.1",
+    "minSupported": "1.6.1",
     "url": "https://github.com/gonkanetworkonboardinghub/gonka-host-setup/releases/latest/download/Gonka-Network-Onboarding-Tool.exe",
-    "installer": "https://github.com/gonkanetworkonboardinghub/gonka-host-setup/releases/download/v1.6.0/Gonka-Network-Onboarding-Tool-Setup-1.6.0.exe",
-    "sha256": "c426237482f511e1c2d6911c451abbf0a9fcc7a6e946b706df025b8f677a7120",
-    "notes": "Gonka Host Monitor/Vote, rebuilt: a start page with My nodes, The network and Votes. With your own node you can now vote on proposals with its wallet, open a command line on its server, and shut it down safely, all from the app. Charts with dates and the exact figure on hover, the GPUs on the network epoch by epoch, every proposal ever made, a live epoch strip, and what hosts were paid and why not everything. Host Setup: simpler steps, pick a GPU setup to see exactly what it needs, and the finished node goes straight into My nodes. Mine it or buy it now counts what hosts were really paid. A larger window and text.",
+    "installer": "https://github.com/gonkanetworkonboardinghub/gonka-host-setup/releases/download/v1.6.1/Gonka-Network-Onboarding-Tool-Setup-1.6.1.exe",
+    "sha256": "a4aea7cc1ce960047c6e48476a8c41fec5ecce578e33753b55ca46d569a7245e",
+    "notes": "Mine it or buy it now shows what a host that does its work really earns: hosts that were paid nothing no longer pull every figure down. Whole 8-GPU servers are listed next to each setup, along with more of the GPU kinds hosts are paid for, and setups no host runs yet are named. Host Setup: a server with two, four or eight times the GPUs a setup needs now fits it, and runs one copy per set of GPUs.",
     "mac": {
-      "latest": "1.6.0",
-      "minSupported": "1.6.0",
-      "notes": "Gonka Host Monitor/Vote, rebuilt: a start page with My nodes, The network and Votes. With your own node you can now vote on proposals with its wallet, open a command line on its server, and shut it down safely, all from the app. Charts with dates and the exact figure on hover, the GPUs on the network epoch by epoch, every proposal ever made, a live epoch strip, and what hosts were paid and why not everything. Host Setup: simpler steps, pick a GPU setup to see exactly what it needs, and the finished node goes straight into My nodes. Mine it or buy it now counts what hosts were really paid. A larger window and text.",
+      "latest": "1.6.1",
+      "minSupported": "1.6.1",
+      "notes": "Mine it or buy it now shows what a host that does its work really earns: hosts that were paid nothing no longer pull every figure down. Whole 8-GPU servers are listed next to each setup, along with more of the GPU kinds hosts are paid for, and setups no host runs yet are named. Host Setup: a server with two, four or eight times the GPUs a setup needs now fits it, and runs one copy per set of GPUs.",
       "arm64": {
-        "url": "https://github.com/gonkanetworkonboardinghub/gonka-host-setup/releases/download/v1.6.0/Gonka-Network-Onboarding-Tool-1.6.0-mac-arm64.zip",
-        "sha256": "d9b0313246314e3152d776ffbcef4d82ca089268e0f5b660703ab409df9bc954"
+        "url": "https://github.com/gonkanetworkonboardinghub/gonka-host-setup/releases/download/v1.6.1/Gonka-Network-Onboarding-Tool-1.6.1-mac-arm64.zip",
+        "sha256": "39840a763686e90d1b2058b443bbcb14eccc37aaf848a24f63141265cc9bd95b"
       },
       "x64": {
-        "url": "https://github.com/gonkanetworkonboardinghub/gonka-host-setup/releases/download/v1.6.0/Gonka-Network-Onboarding-Tool-1.6.0-mac-x64.zip",
-        "sha256": "b1e000ed8331d622b595b2565dbb5922984c1338f1b906b6f537b60bbddac8bb"
+        "url": "https://github.com/gonkanetworkonboardinghub/gonka-host-setup/releases/download/v1.6.1/Gonka-Network-Onboarding-Tool-1.6.1-mac-x64.zip",
+        "sha256": "bcab3e390e1cc013a69d39931396310989ef09e1c4190a814a797ab44806b3c4"
       }
     }
   }
