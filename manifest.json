@@ -21,23 +21,23 @@
   ],
   "gasPriceNgonka": 1,
   "app": {
-    "latest": "1.7.1",
-    "minSupported": "1.7.1",
+    "latest": "1.7.2",
+    "minSupported": "1.7.2",
     "url": "https://github.com/gonkanetworkonboardinghub/gonka-host-setup/releases/latest/download/Gonka-Network-Onboarding-Tool.exe",
-    "installer": "https://github.com/gonkanetworkonboardinghub/gonka-host-setup/releases/download/v1.7.1/Gonka-Network-Onboarding-Tool-Setup-1.7.1.exe",
-    "sha256": "458c18fd05e7aac2ae65795df42a7b54f4539ebc0af727a5aa45a9d3b5a353b7",
-    "notes": "Host Setup now follows what Gonka's current ML node images need: CUDA 13 (NVIDIA driver 580 or newer), or CUDA 12.9 with Gonka's fallback image, which GNOT now picks by itself on a server with an older driver (before, such a server could be given the CUDA 13 image and fail late in the setup). The health check, the driver fix (now driver 580), What your server needs and Compare with providers all use the same rule, and the providers' offers show which CUDA they come with.",
+    "installer": "https://github.com/gonkanetworkonboardinghub/gonka-host-setup/releases/download/v1.7.2/Gonka-Network-Onboarding-Tool-Setup-1.7.2.exe",
+    "sha256": "ee6451a620758495dc131874c46543ebb2b8f3ac85c130a3ae05ae893a7ac84a",
+    "notes": "Mine or buy shows what each rig really earns: machines whose hosts report fewer GPUs than they run are left out (4 × H100 had looked fifteen times better than it is), and a note says hosts report their own hardware, with a link to every host. Compare with providers fits the window, reminds you to check the price on the provider's own site, and reads Spheron's list again when it comes back short. Electron 44.10.0.",
     "mac": {
-      "latest": "1.7.1",
-      "minSupported": "1.7.1",
-      "notes": "Host Setup now follows what Gonka's current ML node images need: CUDA 13 (NVIDIA driver 580 or newer), or CUDA 12.9 with Gonka's fallback image, which GNOT now picks by itself on a server with an older driver (before, such a server could be given the CUDA 13 image and fail late in the setup). The health check, the driver fix (now driver 580), What your server needs and Compare with providers all use the same rule, and the providers' offers show which CUDA they come with.",
+      "latest": "1.7.2",
+      "minSupported": "1.7.2",
+      "notes": "Mine or buy shows what each rig really earns: machines whose hosts report fewer GPUs than they run are left out (4 × H100 had looked fifteen times better than it is), and a note says hosts report their own hardware, with a link to every host. Compare with providers fits the window, reminds you to check the price on the provider's own site, and reads Spheron's list again when it comes back short. Electron 44.10.0.",
       "arm64": {
-        "url": "https://github.com/gonkanetworkonboardinghub/gonka-host-setup/releases/download/v1.7.1/Gonka-Network-Onboarding-Tool-1.7.1-mac-arm64.zip",
-        "sha256": "12beb43c34a65fcab476a81323980f6b4f7de4cddd7eca9131e6917010c96406"
+        "url": "https://github.com/gonkanetworkonboardinghub/gonka-host-setup/releases/download/v1.7.2/Gonka-Network-Onboarding-Tool-1.7.2-mac-arm64.zip",
+        "sha256": "568a2f444e7e130ea304d0cecc49893c938390613ebc8371050383ee7b6707c0"
       },
       "x64": {
-        "url": "https://github.com/gonkanetworkonboardinghub/gonka-host-setup/releases/download/v1.7.1/Gonka-Network-Onboarding-Tool-1.7.1-mac-x64.zip",
-        "sha256": "aebc19b4c532cc999a714ae483112523f9696ee17b8fd8a8dc03ca2b59c81b00"
+        "url": "https://github.com/gonkanetworkonboardinghub/gonka-host-setup/releases/download/v1.7.2/Gonka-Network-Onboarding-Tool-1.7.2-mac-x64.zip",
+        "sha256": "f55faaad52d4555bd3a7954c1df3ee3d0267d9ddf2fa51d07e60984998a62911"
       }
     }
   }
