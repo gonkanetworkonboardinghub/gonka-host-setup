@@ -21,23 +21,23 @@
   ],
   "gasPriceNgonka": 1,
   "app": {
-    "latest": "1.7.3",
-    "minSupported": "1.7.3",
+    "latest": "1.7.4",
+    "minSupported": "1.7.4",
     "url": "https://github.com/gonkanetworkonboardinghub/gonka-host-setup/releases/latest/download/Gonka-Network-Onboarding-Tool.exe",
-    "installer": "https://github.com/gonkanetworkonboardinghub/gonka-host-setup/releases/download/v1.7.3/Gonka-Network-Onboarding-Tool-Setup-1.7.3.exe",
-    "sha256": "00f1b5c14325a7a9e0c3795a8ff5973708e0e221d2e6021db1b31869ccad8b71",
-    "notes": "Mine or buy is accurate whichever Gonka node answers: when a node refuses a question, the app asks the next one instead of leaving that host out of the figures.",
+    "installer": "https://github.com/gonkanetworkonboardinghub/gonka-host-setup/releases/download/v1.7.4/Gonka-Network-Onboarding-Tool-Setup-1.7.4.exe",
+    "sha256": "bb207eb415bf5a7862b162727b0f7f303b5e9f5405c17b6c717d449f81212df2",
+    "notes": "Host Setup's model step shows the same setups as the first step, whole 8-GPU servers included. Monitor/Vote: My nodes follows any node, yours or anyone else's; the network page says how many GPUs hosts report and what all the weight equals in H100s, and flags hosts that report far fewer GPUs than their weight takes; the GNK price lists its four markets; a clearer Back button; no Ask for money filter on Votes.",
     "mac": {
-      "latest": "1.7.3",
-      "minSupported": "1.7.3",
-      "notes": "Mine or buy is accurate whichever Gonka node answers: when a node refuses a question, the app asks the next one instead of leaving that host out of the figures.",
+      "latest": "1.7.4",
+      "minSupported": "1.7.4",
+      "notes": "Host Setup's model step shows the same setups as the first step, whole 8-GPU servers included. Monitor/Vote: My nodes follows any node, yours or anyone else's; the network page says how many GPUs hosts report and what all the weight equals in H100s, and flags hosts that report far fewer GPUs than their weight takes; the GNK price lists its four markets; a clearer Back button; no Ask for money filter on Votes.",
       "arm64": {
-        "url": "https://github.com/gonkanetworkonboardinghub/gonka-host-setup/releases/download/v1.7.3/Gonka-Network-Onboarding-Tool-1.7.3-mac-arm64.zip",
-        "sha256": "e54825374e3f1b9b1263c686d181070620865755d9e6662b4431d56ca205970c"
+        "url": "https://github.com/gonkanetworkonboardinghub/gonka-host-setup/releases/download/v1.7.4/Gonka-Network-Onboarding-Tool-1.7.4-mac-arm64.zip",
+        "sha256": "12d92ad1d77c8df1b827e38ffb972897860e840f960a0d5b224668d6dde2a69a"
       },
       "x64": {
-        "url": "https://github.com/gonkanetworkonboardinghub/gonka-host-setup/releases/download/v1.7.3/Gonka-Network-Onboarding-Tool-1.7.3-mac-x64.zip",
-        "sha256": "02cc2df22b3e09ca64bc78725441727f973281a497cafa3678a192d5f5b8a78d"
+        "url": "https://github.com/gonkanetworkonboardinghub/gonka-host-setup/releases/download/v1.7.4/Gonka-Network-Onboarding-Tool-1.7.4-mac-x64.zip",
+        "sha256": "a0beeb1317715976935ef35ab152199e8abefe28e62398382004f6640d5d8927"
       }
     }
   }
