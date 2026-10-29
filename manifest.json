@@ -21,23 +21,23 @@
   ],
   "gasPriceNgonka": 1,
   "app": {
-    "latest": "1.8.1",
-    "minSupported": "1.8.1",
+    "latest": "1.8.2",
+    "minSupported": "1.8.2",
     "url": "https://github.com/gonkanetworkonboardinghub/gonka-host-setup/releases/latest/download/Gonka-Network-Onboarding-Tool.exe",
-    "installer": "https://github.com/gonkanetworkonboardinghub/gonka-host-setup/releases/download/v1.8.1/Gonka-Network-Onboarding-Tool-Setup-1.8.1.exe",
-    "sha256": "b455f0e648a67feb4d3561cba7fe3b78abff9ceaf52693fa98758242ae16f634",
-    "notes": "Host Setup: on servers whose network carries smaller packets than Docker's (many rented machines, such as Spheron's at 1,400 bytes), downloads into containers were cut off and the chain node could never start. GNOT now finds this and fits Docker's packets to the network by itself, keeping the fix after a reboot, then starts the node.",
+    "installer": "https://github.com/gonkanetworkonboardinghub/gonka-host-setup/releases/download/v1.8.2/Gonka-Network-Onboarding-Tool-Setup-1.8.2.exe",
+    "sha256": "94ece759d219054b1c528c80227004388c3feb216906da1ec38dfc25a0d4b05b",
+    "notes": "Host Setup: the permissions step no longer stops with \"Timed out waiting for transaction\" (GNOT now asks every public Gonka node whether a transaction landed, as one of them can't tell), no longer renews a fee allowance that is still good, and gives small transactions enough gas.",
     "mac": {
-      "latest": "1.8.1",
-      "minSupported": "1.8.1",
-      "notes": "Host Setup: on servers whose network carries smaller packets than Docker's (many rented machines, such as Spheron's at 1,400 bytes), downloads into containers were cut off and the chain node could never start. GNOT now finds this and fits Docker's packets to the network by itself, keeping the fix after a reboot, then starts the node.",
+      "latest": "1.8.2",
+      "minSupported": "1.8.2",
+      "notes": "Host Setup: the permissions step no longer stops with \"Timed out waiting for transaction\" (GNOT now asks every public Gonka node whether a transaction landed, as one of them can't tell), no longer renews a fee allowance that is still good, and gives small transactions enough gas.",
       "arm64": {
-        "url": "https://github.com/gonkanetworkonboardinghub/gonka-host-setup/releases/download/v1.8.1/Gonka-Network-Onboarding-Tool-1.8.1-mac-arm64.zip",
-        "sha256": "062ee16c10d8a993109c5f2921441ad3d65d0a327a8674edf0292d072504a868"
+        "url": "https://github.com/gonkanetworkonboardinghub/gonka-host-setup/releases/download/v1.8.2/Gonka-Network-Onboarding-Tool-1.8.2-mac-arm64.zip",
+        "sha256": "c43b53694f933f882b1b7ab9bca9ef139225a214e39ebafdc21c7dcb34755166"
       },
       "x64": {
-        "url": "https://github.com/gonkanetworkonboardinghub/gonka-host-setup/releases/download/v1.8.1/Gonka-Network-Onboarding-Tool-1.8.1-mac-x64.zip",
-        "sha256": "cc8360da2ddbc79f1f628eaee9910698936859ffa111219338ef2b519aa5b2a2"
+        "url": "https://github.com/gonkanetworkonboardinghub/gonka-host-setup/releases/download/v1.8.2/Gonka-Network-Onboarding-Tool-1.8.2-mac-x64.zip",
+        "sha256": "79172a1e0cdd19d8ad13dc306cbb3e9ae1f9e1f953e977bef7f1c4ac0112a9ba"
       }
     }
   }
