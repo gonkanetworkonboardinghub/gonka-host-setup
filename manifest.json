@@ -21,23 +21,23 @@
   ],
   "gasPriceNgonka": 1,
   "app": {
-    "latest": "1.8.2",
-    "minSupported": "1.8.2",
+    "latest": "1.8.4",
+    "minSupported": "1.8.4",
     "url": "https://github.com/gonkanetworkonboardinghub/gonka-host-setup/releases/latest/download/Gonka-Network-Onboarding-Tool.exe",
-    "installer": "https://github.com/gonkanetworkonboardinghub/gonka-host-setup/releases/download/v1.8.2/Gonka-Network-Onboarding-Tool-Setup-1.8.2.exe",
-    "sha256": "94ece759d219054b1c528c80227004388c3feb216906da1ec38dfc25a0d4b05b",
-    "notes": "Host Setup: the permissions step no longer stops with \"Timed out waiting for transaction\" (GNOT now asks every public Gonka node whether a transaction landed, as one of them can't tell), no longer renews a fee allowance that is still good, and gives small transactions enough gas.",
+    "installer": "https://github.com/gonkanetworkonboardinghub/gonka-host-setup/releases/download/v1.8.4/Gonka-Network-Onboarding-Tool-Setup-1.8.4.exe",
+    "sha256": "6f716d1c998bce5f4536dbe30fb07be3b0a296c2da44acc247b8d12c87cc21d8",
+    "notes": "Monitor/Vote: the network page shows the network's total weight epoch by epoch; the AI chart is gone for now. Host Setup: the Verify step shows your node's status in words.",
     "mac": {
-      "latest": "1.8.2",
-      "minSupported": "1.8.2",
-      "notes": "Host Setup: the permissions step no longer stops with \"Timed out waiting for transaction\" (GNOT now asks every public Gonka node whether a transaction landed, as one of them can't tell), no longer renews a fee allowance that is still good, and gives small transactions enough gas.",
+      "latest": "1.8.4",
+      "minSupported": "1.8.4",
+      "notes": "Monitor/Vote: the network page shows the network's total weight epoch by epoch; the AI chart is gone for now. Host Setup: the Verify step shows your node's status in words.",
       "arm64": {
-        "url": "https://github.com/gonkanetworkonboardinghub/gonka-host-setup/releases/download/v1.8.2/Gonka-Network-Onboarding-Tool-1.8.2-mac-arm64.zip",
-        "sha256": "c43b53694f933f882b1b7ab9bca9ef139225a214e39ebafdc21c7dcb34755166"
+        "url": "https://github.com/gonkanetworkonboardinghub/gonka-host-setup/releases/download/v1.8.4/Gonka-Network-Onboarding-Tool-1.8.4-mac-arm64.zip",
+        "sha256": "e95d2ea69ba223c35bb381af2fa1c048013f87048977b096eca7c254fc25df68"
       },
       "x64": {
-        "url": "https://github.com/gonkanetworkonboardinghub/gonka-host-setup/releases/download/v1.8.2/Gonka-Network-Onboarding-Tool-1.8.2-mac-x64.zip",
-        "sha256": "79172a1e0cdd19d8ad13dc306cbb3e9ae1f9e1f953e977bef7f1c4ac0112a9ba"
+        "url": "https://github.com/gonkanetworkonboardinghub/gonka-host-setup/releases/download/v1.8.4/Gonka-Network-Onboarding-Tool-1.8.4-mac-x64.zip",
+        "sha256": "a6adb4dd1830e333f39b4baa2bc2984d7f4a93cc35623331e465b35a75bda65f"
       }
     }
   }
