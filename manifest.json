@@ -21,23 +21,23 @@
   ],
   "gasPriceNgonka": 1,
   "app": {
-    "latest": "1.7.4",
-    "minSupported": "1.7.4",
+    "latest": "1.8.0",
+    "minSupported": "1.8.0",
     "url": "https://github.com/gonkanetworkonboardinghub/gonka-host-setup/releases/latest/download/Gonka-Network-Onboarding-Tool.exe",
-    "installer": "https://github.com/gonkanetworkonboardinghub/gonka-host-setup/releases/download/v1.7.4/Gonka-Network-Onboarding-Tool-Setup-1.7.4.exe",
-    "sha256": "bb207eb415bf5a7862b162727b0f7f303b5e9f5405c17b6c717d449f81212df2",
-    "notes": "Host Setup's model step shows the same setups as the first step, whole 8-GPU servers included. Monitor/Vote: My nodes follows any node, yours or anyone else's; the network page says how many GPUs hosts report and what all the weight equals in H100s, and flags hosts that report far fewer GPUs than their weight takes; the GNK price lists its four markets; a clearer Back button; no Ask for money filter on Votes.",
+    "installer": "https://github.com/gonkanetworkonboardinghub/gonka-host-setup/releases/download/v1.8.0/Gonka-Network-Onboarding-Tool-Setup-1.8.0.exe",
+    "sha256": "d596889f96a38afe592e786c651c3d79f4cfb45cab03885fea1d62f5eb166ab7",
+    "notes": "Host Setup: the chain node starts on a public Gonka node that answers your server, waits until it really answers (showing each step) and switches node by itself if one stalls; GNOT connects to your server again by itself if the connection drops; when something fails you get a clear card with Try again and Copy the details. The wallet step no longer uses the faucet: it says how to get GNK and watches the wallet live. An SSH key can be made on the first step, ready for your provider's form, and the review step's files can be changed. Monitor/Vote: the network's total weight and what users paid for AI, epoch by epoch; the section tabs sit in the middle.",
     "mac": {
-      "latest": "1.7.4",
-      "minSupported": "1.7.4",
-      "notes": "Host Setup's model step shows the same setups as the first step, whole 8-GPU servers included. Monitor/Vote: My nodes follows any node, yours or anyone else's; the network page says how many GPUs hosts report and what all the weight equals in H100s, and flags hosts that report far fewer GPUs than their weight takes; the GNK price lists its four markets; a clearer Back button; no Ask for money filter on Votes.",
+      "latest": "1.8.0",
+      "minSupported": "1.8.0",
+      "notes": "Host Setup: the chain node starts on a public Gonka node that answers your server, waits until it really answers (showing each step) and switches node by itself if one stalls; GNOT connects to your server again by itself if the connection drops; when something fails you get a clear card with Try again and Copy the details. The wallet step no longer uses the faucet: it says how to get GNK and watches the wallet live. An SSH key can be made on the first step, ready for your provider's form, and the review step's files can be changed. Monitor/Vote: the network's total weight and what users paid for AI, epoch by epoch; the section tabs sit in the middle.",
       "arm64": {
-        "url": "https://github.com/gonkanetworkonboardinghub/gonka-host-setup/releases/download/v1.7.4/Gonka-Network-Onboarding-Tool-1.7.4-mac-arm64.zip",
-        "sha256": "12d92ad1d77c8df1b827e38ffb972897860e840f960a0d5b224668d6dde2a69a"
+        "url": "https://github.com/gonkanetworkonboardinghub/gonka-host-setup/releases/download/v1.8.0/Gonka-Network-Onboarding-Tool-1.8.0-mac-arm64.zip",
+        "sha256": "00948d35aae60a8e5b401e532253151db4ef48eff73006d46c716f4dab0e7dda"
       },
       "x64": {
-        "url": "https://github.com/gonkanetworkonboardinghub/gonka-host-setup/releases/download/v1.7.4/Gonka-Network-Onboarding-Tool-1.7.4-mac-x64.zip",
-        "sha256": "a0beeb1317715976935ef35ab152199e8abefe28e62398382004f6640d5d8927"
+        "url": "https://github.com/gonkanetworkonboardinghub/gonka-host-setup/releases/download/v1.8.0/Gonka-Network-Onboarding-Tool-1.8.0-mac-x64.zip",
+        "sha256": "3cd271101bb7ecf9b717a08f442e49944b2d45f6ec52b7fb2a09e4655dafb7e1"
       }
     }
   }
