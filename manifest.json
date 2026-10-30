@@ -21,23 +21,23 @@
   ],
   "gasPriceNgonka": 1,
   "app": {
-    "latest": "1.8.4",
-    "minSupported": "1.8.4",
+    "latest": "1.8.5",
+    "minSupported": "1.8.5",
     "url": "https://github.com/gonkanetworkonboardinghub/gonka-host-setup/releases/latest/download/Gonka-Network-Onboarding-Tool.exe",
-    "installer": "https://github.com/gonkanetworkonboardinghub/gonka-host-setup/releases/download/v1.8.4/Gonka-Network-Onboarding-Tool-Setup-1.8.4.exe",
-    "sha256": "6f716d1c998bce5f4536dbe30fb07be3b0a296c2da44acc247b8d12c87cc21d8",
-    "notes": "Monitor/Vote: the network page shows the network's total weight epoch by epoch; the AI chart is gone for now. Host Setup: the Verify step shows your node's status in words.",
+    "installer": "https://github.com/gonkanetworkonboardinghub/gonka-host-setup/releases/download/v1.8.5/Gonka-Network-Onboarding-Tool-Setup-1.8.5.exe",
+    "sha256": "4bf4a609a19a5857cf97fdc93810a7bdcc5881b2af1057dfd4c0c83225bc275f",
+    "notes": "Mine it or buy it: comparing providers now shows each server's model, the GNK it earns a day and what is left or short each day. A small i beside figures explains them. Monitor/Vote: a clearer Its GNK on a node's page, and epochs without request counts say so. Host Setup: the snapshot's last stretch shows what it is doing, picking up a saved setup says what is asked again, and the All tools button matches Monitor/Vote.",
     "mac": {
-      "latest": "1.8.4",
-      "minSupported": "1.8.4",
-      "notes": "Monitor/Vote: the network page shows the network's total weight epoch by epoch; the AI chart is gone for now. Host Setup: the Verify step shows your node's status in words.",
+      "latest": "1.8.5",
+      "minSupported": "1.8.5",
+      "notes": "Mine it or buy it: comparing providers now shows each server's model, the GNK it earns a day and what is left or short each day. A small i beside figures explains them. Monitor/Vote: a clearer Its GNK on a node's page, and epochs without request counts say so. Host Setup: the snapshot's last stretch shows what it is doing, picking up a saved setup says what is asked again, and the All tools button matches Monitor/Vote.",
       "arm64": {
-        "url": "https://github.com/gonkanetworkonboardinghub/gonka-host-setup/releases/download/v1.8.4/Gonka-Network-Onboarding-Tool-1.8.4-mac-arm64.zip",
-        "sha256": "e95d2ea69ba223c35bb381af2fa1c048013f87048977b096eca7c254fc25df68"
+        "url": "https://github.com/gonkanetworkonboardinghub/gonka-host-setup/releases/download/v1.8.5/Gonka-Network-Onboarding-Tool-1.8.5-mac-arm64.zip",
+        "sha256": "5b11df18ec287cfb0410272d757510765f45aa8f4bdb4452ca8b52cbb4bc91f0"
       },
       "x64": {
-        "url": "https://github.com/gonkanetworkonboardinghub/gonka-host-setup/releases/download/v1.8.4/Gonka-Network-Onboarding-Tool-1.8.4-mac-x64.zip",
-        "sha256": "a6adb4dd1830e333f39b4baa2bc2984d7f4a93cc35623331e465b35a75bda65f"
+        "url": "https://github.com/gonkanetworkonboardinghub/gonka-host-setup/releases/download/v1.8.5/Gonka-Network-Onboarding-Tool-1.8.5-mac-x64.zip",
+        "sha256": "25baa8882d9693556c37a39315b637a16f4df8a32ea9365b71f888b4e1e4dfcb"
       }
     }
   }
