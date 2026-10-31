@@ -21,23 +21,23 @@
   ],
   "gasPriceNgonka": 1,
   "app": {
-    "latest": "1.8.7",
-    "minSupported": "1.8.7",
+    "latest": "1.8.8",
+    "minSupported": "1.8.8",
     "url": "https://github.com/gonkanetworkonboardinghub/gonka-host-setup/releases/latest/download/Gonka-Network-Onboarding-Tool.exe",
-    "installer": "https://github.com/gonkanetworkonboardinghub/gonka-host-setup/releases/download/v1.8.7/Gonka-Network-Onboarding-Tool-Setup-1.8.7.exe",
-    "sha256": "a006d3c5a2fdbba22978c022539c4e7e5f8630e1842140e72506531a369985d8",
-    "notes": "Host Setup: Create an SSH key for me now comes first. Connecting uses whatever you give it, whichever choice is showing: the key GNOT created, your own key file, the key itself pasted in, or a password. A provider's ssh -i command fills in the key file too. Monitor/Vote: how well a node worked compares like with like, answers per session on both bars, and only a node clearly worse than a typical host is shown in red. Mine it or buy it is a little easier to find on the home screen.",
+    "installer": "https://github.com/gonkanetworkonboardinghub/gonka-host-setup/releases/download/v1.8.8/Gonka-Network-Onboarding-Tool-Setup-1.8.8.exe",
+    "sha256": "f1c8941e6e46d8e744091517f6249862af0aa5f2d5a73a2818bfe91e347dba7a",
+    "notes": "Host Setup: picking up a setup now always remembers where you were, even after a restart or an update. Continue on the home screen takes you straight back, and a finished setup opens on its finished page with nothing to type. Monitor/Vote: a node whose wallet is on this computer shows as yours by itself, so you can vote without linking it first. Every panel on your node's page has a button to close it, and connecting to your server offers the SSH key GNOT created. The app also runs on the latest Electron security fixes.",
     "mac": {
-      "latest": "1.8.7",
-      "minSupported": "1.8.7",
-      "notes": "Host Setup: Create an SSH key for me now comes first. Connecting uses whatever you give it, whichever choice is showing: the key GNOT created, your own key file, the key itself pasted in, or a password. A provider's ssh -i command fills in the key file too. Monitor/Vote: how well a node worked compares like with like, answers per session on both bars, and only a node clearly worse than a typical host is shown in red. Mine it or buy it is a little easier to find on the home screen.",
+      "latest": "1.8.8",
+      "minSupported": "1.8.8",
+      "notes": "Host Setup: picking up a setup now always remembers where you were, even after a restart or an update. Continue on the home screen takes you straight back, and a finished setup opens on its finished page with nothing to type. Monitor/Vote: a node whose wallet is on this computer shows as yours by itself, so you can vote without linking it first. Every panel on your node's page has a button to close it, and connecting to your server offers the SSH key GNOT created. The app also runs on the latest Electron security fixes.",
       "arm64": {
-        "url": "https://github.com/gonkanetworkonboardinghub/gonka-host-setup/releases/download/v1.8.7/Gonka-Network-Onboarding-Tool-1.8.7-mac-arm64.zip",
-        "sha256": "88bef2d910ebe0d4477efd6adf9ec01076cfba1a1c759d9fa91177e6895a807c"
+        "url": "https://github.com/gonkanetworkonboardinghub/gonka-host-setup/releases/download/v1.8.8/Gonka-Network-Onboarding-Tool-1.8.8-mac-arm64.zip",
+        "sha256": "292c6ee3e47dac0ffe0b1d75fe4ae139cb7a52419cc0e3292b5ebb19f30e1ff6"
       },
       "x64": {
-        "url": "https://github.com/gonkanetworkonboardinghub/gonka-host-setup/releases/download/v1.8.7/Gonka-Network-Onboarding-Tool-1.8.7-mac-x64.zip",
-        "sha256": "13075f590a28b2067bdef6ee858bbf729850be2a8e39e56b1e56c257542d38d6"
+        "url": "https://github.com/gonkanetworkonboardinghub/gonka-host-setup/releases/download/v1.8.8/Gonka-Network-Onboarding-Tool-1.8.8-mac-x64.zip",
+        "sha256": "3cbea3f985e98f136aea3c687a7884812294f5f98cac1264be6f7f2464f11a94"
       }
     }
   }
