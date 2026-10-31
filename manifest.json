@@ -21,23 +21,23 @@
   ],
   "gasPriceNgonka": 1,
   "app": {
-    "latest": "1.8.9",
-    "minSupported": "1.8.9",
+    "latest": "1.8.10",
+    "minSupported": "1.8.10",
     "url": "https://github.com/gonkanetworkonboardinghub/gonka-host-setup/releases/latest/download/Gonka-Network-Onboarding-Tool.exe",
-    "installer": "https://github.com/gonkanetworkonboardinghub/gonka-host-setup/releases/download/v1.8.9/Gonka-Network-Onboarding-Tool-Setup-1.8.9.exe",
-    "sha256": "cb741c349cb4c9045e1746b24a3eadb83bd63bd9bc521c132765b39900370853",
-    "notes": "Host Setup: a finished setup that an earlier restart had wiped is put back by itself. If your wallet on this computer is registered on the network, the app opens your setup as finished again, with every step done and your address shown.",
+    "installer": "https://github.com/gonkanetworkonboardinghub/gonka-host-setup/releases/download/v1.8.10/Gonka-Network-Onboarding-Tool-Setup-1.8.10.exe",
+    "sha256": "7c3b77bcf1fb27c19f7194e4fcd9df942e3df1245b3d2d986e31af0f9c8de247",
+    "notes": "Shut down safely: switch off now anyway, with a clear warning first, and what renting and owning each need. My nodes says when a node's address stops answering. A real run on record.",
     "mac": {
-      "latest": "1.8.9",
-      "minSupported": "1.8.9",
-      "notes": "Host Setup: a finished setup that an earlier restart had wiped is put back by itself. If your wallet on this computer is registered on the network, the app opens your setup as finished again, with every step done and your address shown.",
+      "latest": "1.8.10",
+      "minSupported": "1.8.10",
+      "notes": "Shut down safely: switch off now anyway, with a clear warning first, and what renting and owning each need. My nodes says when a node's address stops answering. A real run on record.",
       "arm64": {
-        "url": "https://github.com/gonkanetworkonboardinghub/gonka-host-setup/releases/download/v1.8.9/Gonka-Network-Onboarding-Tool-1.8.9-mac-arm64.zip",
-        "sha256": "eea26ec6d4d812cbfcf13fca9c7f33e0e84af5197a5b2b2de65d798d693348f8"
+        "url": "https://github.com/gonkanetworkonboardinghub/gonka-host-setup/releases/download/v1.8.10/Gonka-Network-Onboarding-Tool-1.8.10-mac-arm64.zip",
+        "sha256": "f4d340b9e87ece8726a1873707b358defc9b7080d80d56bff53cb107c4443360"
       },
       "x64": {
-        "url": "https://github.com/gonkanetworkonboardinghub/gonka-host-setup/releases/download/v1.8.9/Gonka-Network-Onboarding-Tool-1.8.9-mac-x64.zip",
-        "sha256": "e9decc193b9215b8f69fd153ff9f323b3c0db050161e75e148e84e38da0a3dd0"
+        "url": "https://github.com/gonkanetworkonboardinghub/gonka-host-setup/releases/download/v1.8.10/Gonka-Network-Onboarding-Tool-1.8.10-mac-x64.zip",
+        "sha256": "e4dc8cbf142af78dbf8c4ef0938be81276c5ef27fda26941f2c6b2514b00394d"
       }
     }
   }
