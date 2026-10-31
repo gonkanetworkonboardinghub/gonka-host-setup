@@ -21,23 +21,23 @@
   ],
   "gasPriceNgonka": 1,
   "app": {
-    "latest": "1.8.8",
-    "minSupported": "1.8.8",
+    "latest": "1.8.9",
+    "minSupported": "1.8.9",
     "url": "https://github.com/gonkanetworkonboardinghub/gonka-host-setup/releases/latest/download/Gonka-Network-Onboarding-Tool.exe",
-    "installer": "https://github.com/gonkanetworkonboardinghub/gonka-host-setup/releases/download/v1.8.8/Gonka-Network-Onboarding-Tool-Setup-1.8.8.exe",
-    "sha256": "f1c8941e6e46d8e744091517f6249862af0aa5f2d5a73a2818bfe91e347dba7a",
-    "notes": "Host Setup: picking up a setup now always remembers where you were, even after a restart or an update. Continue on the home screen takes you straight back, and a finished setup opens on its finished page with nothing to type. Monitor/Vote: a node whose wallet is on this computer shows as yours by itself, so you can vote without linking it first. Every panel on your node's page has a button to close it, and connecting to your server offers the SSH key GNOT created. The app also runs on the latest Electron security fixes.",
+    "installer": "https://github.com/gonkanetworkonboardinghub/gonka-host-setup/releases/download/v1.8.9/Gonka-Network-Onboarding-Tool-Setup-1.8.9.exe",
+    "sha256": "cb741c349cb4c9045e1746b24a3eadb83bd63bd9bc521c132765b39900370853",
+    "notes": "Host Setup: a finished setup that an earlier restart had wiped is put back by itself. If your wallet on this computer is registered on the network, the app opens your setup as finished again, with every step done and your address shown.",
     "mac": {
-      "latest": "1.8.8",
-      "minSupported": "1.8.8",
-      "notes": "Host Setup: picking up a setup now always remembers where you were, even after a restart or an update. Continue on the home screen takes you straight back, and a finished setup opens on its finished page with nothing to type. Monitor/Vote: a node whose wallet is on this computer shows as yours by itself, so you can vote without linking it first. Every panel on your node's page has a button to close it, and connecting to your server offers the SSH key GNOT created. The app also runs on the latest Electron security fixes.",
+      "latest": "1.8.9",
+      "minSupported": "1.8.9",
+      "notes": "Host Setup: a finished setup that an earlier restart had wiped is put back by itself. If your wallet on this computer is registered on the network, the app opens your setup as finished again, with every step done and your address shown.",
       "arm64": {
-        "url": "https://github.com/gonkanetworkonboardinghub/gonka-host-setup/releases/download/v1.8.8/Gonka-Network-Onboarding-Tool-1.8.8-mac-arm64.zip",
-        "sha256": "292c6ee3e47dac0ffe0b1d75fe4ae139cb7a52419cc0e3292b5ebb19f30e1ff6"
+        "url": "https://github.com/gonkanetworkonboardinghub/gonka-host-setup/releases/download/v1.8.9/Gonka-Network-Onboarding-Tool-1.8.9-mac-arm64.zip",
+        "sha256": "eea26ec6d4d812cbfcf13fca9c7f33e0e84af5197a5b2b2de65d798d693348f8"
       },
       "x64": {
-        "url": "https://github.com/gonkanetworkonboardinghub/gonka-host-setup/releases/download/v1.8.8/Gonka-Network-Onboarding-Tool-1.8.8-mac-x64.zip",
-        "sha256": "3cbea3f985e98f136aea3c687a7884812294f5f98cac1264be6f7f2464f11a94"
+        "url": "https://github.com/gonkanetworkonboardinghub/gonka-host-setup/releases/download/v1.8.9/Gonka-Network-Onboarding-Tool-1.8.9-mac-x64.zip",
+        "sha256": "e9decc193b9215b8f69fd153ff9f323b3c0db050161e75e148e84e38da0a3dd0"
       }
     }
   }
