@@ -21,23 +21,23 @@
   ],
   "gasPriceNgonka": 1,
   "app": {
-    "latest": "1.8.5",
-    "minSupported": "1.8.5",
+    "latest": "1.8.6",
+    "minSupported": "1.8.6",
     "url": "https://github.com/gonkanetworkonboardinghub/gonka-host-setup/releases/latest/download/Gonka-Network-Onboarding-Tool.exe",
-    "installer": "https://github.com/gonkanetworkonboardinghub/gonka-host-setup/releases/download/v1.8.5/Gonka-Network-Onboarding-Tool-Setup-1.8.5.exe",
-    "sha256": "4bf4a609a19a5857cf97fdc93810a7bdcc5881b2af1057dfd4c0c83225bc275f",
-    "notes": "Mine it or buy it: comparing providers now shows each server's model, the GNK it earns a day and what is left or short each day. A small i beside figures explains them. Monitor/Vote: a clearer Its GNK on a node's page, and epochs without request counts say so. Host Setup: the snapshot's last stretch shows what it is doing, picking up a saved setup says what is asked again, and the All tools button matches Monitor/Vote.",
+    "installer": "https://github.com/gonkanetworkonboardinghub/gonka-host-setup/releases/download/v1.8.6/Gonka-Network-Onboarding-Tool-Setup-1.8.6.exe",
+    "sha256": "2cff8d113553b44dab58814be969e941abb1ef8c40ad70a84a732f5837cd221c",
+    "notes": "Host Setup: going back to an earlier step never touches a running node, and Finished says your node is live only once it is in an epoch. The fee card shows what hosts really paid last epoch while your own estimate is worked out. Monitor/Vote: weights explained by each model's rate, a Weight column for every host, how well each host worked from its AI sessions, and a node in its first epoch says so. Rentals read CUDA 13. Updates no longer cut anyone off: an open copy updates once nothing is running.",
     "mac": {
-      "latest": "1.8.5",
-      "minSupported": "1.8.5",
-      "notes": "Mine it or buy it: comparing providers now shows each server's model, the GNK it earns a day and what is left or short each day. A small i beside figures explains them. Monitor/Vote: a clearer Its GNK on a node's page, and epochs without request counts say so. Host Setup: the snapshot's last stretch shows what it is doing, picking up a saved setup says what is asked again, and the All tools button matches Monitor/Vote.",
+      "latest": "1.8.6",
+      "minSupported": "1.8.6",
+      "notes": "Host Setup: going back to an earlier step never touches a running node, and Finished says your node is live only once it is in an epoch. The fee card shows what hosts really paid last epoch while your own estimate is worked out. Monitor/Vote: weights explained by each model's rate, a Weight column for every host, how well each host worked from its AI sessions, and a node in its first epoch says so. Rentals read CUDA 13. Updates no longer cut anyone off: an open copy updates once nothing is running.",
       "arm64": {
-        "url": "https://github.com/gonkanetworkonboardinghub/gonka-host-setup/releases/download/v1.8.5/Gonka-Network-Onboarding-Tool-1.8.5-mac-arm64.zip",
-        "sha256": "5b11df18ec287cfb0410272d757510765f45aa8f4bdb4452ca8b52cbb4bc91f0"
+        "url": "https://github.com/gonkanetworkonboardinghub/gonka-host-setup/releases/download/v1.8.6/Gonka-Network-Onboarding-Tool-1.8.6-mac-arm64.zip",
+        "sha256": "78b0dcf464c6b250d8a7616d73b69a8d90e550136384ea99e17c60653274000a"
       },
       "x64": {
-        "url": "https://github.com/gonkanetworkonboardinghub/gonka-host-setup/releases/download/v1.8.5/Gonka-Network-Onboarding-Tool-1.8.5-mac-x64.zip",
-        "sha256": "25baa8882d9693556c37a39315b637a16f4df8a32ea9365b71f888b4e1e4dfcb"
+        "url": "https://github.com/gonkanetworkonboardinghub/gonka-host-setup/releases/download/v1.8.6/Gonka-Network-Onboarding-Tool-1.8.6-mac-x64.zip",
+        "sha256": "940bac31207e8fe296d116ace3c631e284fafaf2cb700d1ad8550bf5921911b5"
       }
     }
   }
