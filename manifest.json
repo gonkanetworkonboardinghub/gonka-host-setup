@@ -21,23 +21,23 @@
   ],
   "gasPriceNgonka": 1,
   "app": {
-    "latest": "1.8.11",
-    "minSupported": "1.8.11",
+    "latest": "1.8.12",
+    "minSupported": "1.8.12",
     "url": "https://github.com/gonkanetworkonboardinghub/gonka-host-setup/releases/latest/download/Gonka-Network-Onboarding-Tool.exe",
-    "installer": "https://github.com/gonkanetworkonboardinghub/gonka-host-setup/releases/download/v1.8.11/Gonka-Network-Onboarding-Tool-Setup-1.8.11.exe",
-    "sha256": "faa169bc44f18bf1685d16eb5aaf518be8da7c03c23d57aa914edad82771ec55",
-    "notes": "Set up another node opens a fresh Host Setup. Not answering is shown only when the node itself does not answer. Small wording fixes.",
+    "installer": "https://github.com/gonkanetworkonboardinghub/gonka-host-setup/releases/download/v1.8.12/Gonka-Network-Onboarding-Tool-Setup-1.8.12.exe",
+    "sha256": "e3a469869ae8fa76a8f34a3055e59941c88c7a2ee01acbfde641b32fa88c4e29",
+    "notes": "Votes: your node's card says Node off or No weight now, instead of Ready, when its vote would count for nothing.",
     "mac": {
-      "latest": "1.8.11",
-      "minSupported": "1.8.11",
-      "notes": "Set up another node opens a fresh Host Setup. Not answering is shown only when the node itself does not answer. Small wording fixes.",
+      "latest": "1.8.12",
+      "minSupported": "1.8.12",
+      "notes": "Votes: your node's card says Node off or No weight now, instead of Ready, when its vote would count for nothing.",
       "arm64": {
-        "url": "https://github.com/gonkanetworkonboardinghub/gonka-host-setup/releases/download/v1.8.11/Gonka-Network-Onboarding-Tool-1.8.11-mac-arm64.zip",
-        "sha256": "b28ffb32f26c7454238b4d1d4c3c05c5504876940d555657618de4acb3ea6dba"
+        "url": "https://github.com/gonkanetworkonboardinghub/gonka-host-setup/releases/download/v1.8.12/Gonka-Network-Onboarding-Tool-1.8.12-mac-arm64.zip",
+        "sha256": "06bd29b171db75697b31d2f516c972a1eecc1e3182a27195a25e91a1f3d7565d"
       },
       "x64": {
-        "url": "https://github.com/gonkanetworkonboardinghub/gonka-host-setup/releases/download/v1.8.11/Gonka-Network-Onboarding-Tool-1.8.11-mac-x64.zip",
-        "sha256": "917e3e6cdbb0ac21ef2f80f76145472af85eaf592dc433fc0f4eef7488ad428c"
+        "url": "https://github.com/gonkanetworkonboardinghub/gonka-host-setup/releases/download/v1.8.12/Gonka-Network-Onboarding-Tool-1.8.12-mac-x64.zip",
+        "sha256": "21dbea3316618b9b4c16b7e0ebf18f09fcb8f14e418cbdd1905798590ba1425b"
       }
     }
   }
