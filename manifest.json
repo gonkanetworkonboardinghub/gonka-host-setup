@@ -21,23 +21,23 @@
   ],
   "gasPriceNgonka": 1,
   "app": {
-    "latest": "1.8.12",
-    "minSupported": "1.8.12",
+    "latest": "1.8.13",
+    "minSupported": "1.8.13",
     "url": "https://github.com/gonkanetworkonboardinghub/gonka-host-setup/releases/latest/download/Gonka-Network-Onboarding-Tool.exe",
-    "installer": "https://github.com/gonkanetworkonboardinghub/gonka-host-setup/releases/download/v1.8.12/Gonka-Network-Onboarding-Tool-Setup-1.8.12.exe",
-    "sha256": "e3a469869ae8fa76a8f34a3055e59941c88c7a2ee01acbfde641b32fa88c4e29",
-    "notes": "Votes: your node's card says Node off or No weight now, instead of Ready, when its vote would count for nothing.",
+    "installer": "https://github.com/gonkanetworkonboardinghub/gonka-host-setup/releases/download/v1.8.13/Gonka-Network-Onboarding-Tool-Setup-1.8.13.exe",
+    "sha256": "ca26cf6455fe3cf22701a87e8347ecaeece3e9b9914e43608c816325da04ae72",
+    "notes": "Host Setup now explains when a node can join: only when a new epoch starts, about every 23 hours, at a time that moves on the clock. It shows the next two, and when your node must be ready.",
     "mac": {
-      "latest": "1.8.12",
-      "minSupported": "1.8.12",
-      "notes": "Votes: your node's card says Node off or No weight now, instead of Ready, when its vote would count for nothing.",
+      "latest": "1.8.13",
+      "minSupported": "1.8.13",
+      "notes": "Host Setup now explains when a node can join: only when a new epoch starts, about every 23 hours, at a time that moves on the clock. It shows the next two, and when your node must be ready.",
       "arm64": {
-        "url": "https://github.com/gonkanetworkonboardinghub/gonka-host-setup/releases/download/v1.8.12/Gonka-Network-Onboarding-Tool-1.8.12-mac-arm64.zip",
-        "sha256": "06bd29b171db75697b31d2f516c972a1eecc1e3182a27195a25e91a1f3d7565d"
+        "url": "https://github.com/gonkanetworkonboardinghub/gonka-host-setup/releases/download/v1.8.13/Gonka-Network-Onboarding-Tool-1.8.13-mac-arm64.zip",
+        "sha256": "ce86f3eee1d0e07fb45a45783fe1605ec3957982e91393dec2e9c7b79f14955d"
       },
       "x64": {
-        "url": "https://github.com/gonkanetworkonboardinghub/gonka-host-setup/releases/download/v1.8.12/Gonka-Network-Onboarding-Tool-1.8.12-mac-x64.zip",
-        "sha256": "21dbea3316618b9b4c16b7e0ebf18f09fcb8f14e418cbdd1905798590ba1425b"
+        "url": "https://github.com/gonkanetworkonboardinghub/gonka-host-setup/releases/download/v1.8.13/Gonka-Network-Onboarding-Tool-1.8.13-mac-x64.zip",
+        "sha256": "2133db90be65b0b7b1eace16a837078842e993d1e6e812b91cf105eefb7924fa"
       }
     }
   }
