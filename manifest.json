@@ -21,23 +21,23 @@
   ],
   "gasPriceNgonka": 1,
   "app": {
-    "latest": "1.8.10",
-    "minSupported": "1.8.10",
+    "latest": "1.8.11",
+    "minSupported": "1.8.11",
     "url": "https://github.com/gonkanetworkonboardinghub/gonka-host-setup/releases/latest/download/Gonka-Network-Onboarding-Tool.exe",
-    "installer": "https://github.com/gonkanetworkonboardinghub/gonka-host-setup/releases/download/v1.8.10/Gonka-Network-Onboarding-Tool-Setup-1.8.10.exe",
-    "sha256": "7c3b77bcf1fb27c19f7194e4fcd9df942e3df1245b3d2d986e31af0f9c8de247",
-    "notes": "Shut down safely: switch off now anyway, with a clear warning first, and what renting and owning each need. My nodes says when a node's address stops answering. A real run on record.",
+    "installer": "https://github.com/gonkanetworkonboardinghub/gonka-host-setup/releases/download/v1.8.11/Gonka-Network-Onboarding-Tool-Setup-1.8.11.exe",
+    "sha256": "faa169bc44f18bf1685d16eb5aaf518be8da7c03c23d57aa914edad82771ec55",
+    "notes": "Set up another node opens a fresh Host Setup. Not answering is shown only when the node itself does not answer. Small wording fixes.",
     "mac": {
-      "latest": "1.8.10",
-      "minSupported": "1.8.10",
-      "notes": "Shut down safely: switch off now anyway, with a clear warning first, and what renting and owning each need. My nodes says when a node's address stops answering. A real run on record.",
+      "latest": "1.8.11",
+      "minSupported": "1.8.11",
+      "notes": "Set up another node opens a fresh Host Setup. Not answering is shown only when the node itself does not answer. Small wording fixes.",
       "arm64": {
-        "url": "https://github.com/gonkanetworkonboardinghub/gonka-host-setup/releases/download/v1.8.10/Gonka-Network-Onboarding-Tool-1.8.10-mac-arm64.zip",
-        "sha256": "f4d340b9e87ece8726a1873707b358defc9b7080d80d56bff53cb107c4443360"
+        "url": "https://github.com/gonkanetworkonboardinghub/gonka-host-setup/releases/download/v1.8.11/Gonka-Network-Onboarding-Tool-1.8.11-mac-arm64.zip",
+        "sha256": "b28ffb32f26c7454238b4d1d4c3c05c5504876940d555657618de4acb3ea6dba"
       },
       "x64": {
-        "url": "https://github.com/gonkanetworkonboardinghub/gonka-host-setup/releases/download/v1.8.10/Gonka-Network-Onboarding-Tool-1.8.10-mac-x64.zip",
-        "sha256": "e4dc8cbf142af78dbf8c4ef0938be81276c5ef27fda26941f2c6b2514b00394d"
+        "url": "https://github.com/gonkanetworkonboardinghub/gonka-host-setup/releases/download/v1.8.11/Gonka-Network-Onboarding-Tool-1.8.11-mac-x64.zip",
+        "sha256": "917e3e6cdbb0ac21ef2f80f76145472af85eaf592dc433fc0f4eef7488ad428c"
       }
     }
   }
