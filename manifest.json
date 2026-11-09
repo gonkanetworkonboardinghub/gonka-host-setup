@@ -21,23 +21,23 @@
   ],
   "gasPriceNgonka": 1,
   "app": {
-    "latest": "1.8.16",
-    "minSupported": "1.8.16",
+    "latest": "1.8.17",
+    "minSupported": "1.8.17",
     "url": "https://github.com/gonkanetworkonboardinghub/gonka-host-setup/releases/latest/download/Gonka-Network-Onboarding-Tool.exe",
-    "installer": "https://github.com/gonkanetworkonboardinghub/gonka-host-setup/releases/download/v1.8.16/Gonka-Network-Onboarding-Tool-Setup-1.8.16.exe",
-    "sha256": "bd9012101d6884cc224279112c37984108445f28c41ad509f1fe8627a261bf1b",
-    "notes": "Your wallet's passphrase no longer goes to your server: the server's key gets its own random password. Votes now show the right amounts when a proposal pays through the governance account or pays USDT straight from the community pool (vote #116).",
+    "installer": "https://github.com/gonkanetworkonboardinghub/gonka-host-setup/releases/download/v1.8.17/Gonka-Network-Onboarding-Tool-Setup-1.8.17.exe",
+    "sha256": "d675d9811caeb2c8d40caa7325feedb9c41d2c1c720af49ccb70ad4afb44b371",
+    "notes": "The network page now says plainly that its GPU numbers count each GPU once, not H100 equivalents. Votes now measure turnout the way the chain does (it read a little high), keep a decimal for a small turnout instead of showing 0%, and say how many wallets have voted.",
     "mac": {
-      "latest": "1.8.16",
-      "minSupported": "1.8.16",
-      "notes": "Your wallet's passphrase no longer goes to your server: the server's key gets its own random password. Votes now show the right amounts when a proposal pays through the governance account or pays USDT straight from the community pool (vote #116).",
+      "latest": "1.8.17",
+      "minSupported": "1.8.17",
+      "notes": "The network page now says plainly that its GPU numbers count each GPU once, not H100 equivalents. Votes now measure turnout the way the chain does (it read a little high), keep a decimal for a small turnout instead of showing 0%, and say how many wallets have voted.",
       "arm64": {
-        "url": "https://github.com/gonkanetworkonboardinghub/gonka-host-setup/releases/download/v1.8.16/Gonka-Network-Onboarding-Tool-1.8.16-mac-arm64.zip",
-        "sha256": "3ef6b8270939c035d1b778b0bbb00469c827539702df78ccd1b710297e236e20"
+        "url": "https://github.com/gonkanetworkonboardinghub/gonka-host-setup/releases/download/v1.8.17/Gonka-Network-Onboarding-Tool-1.8.17-mac-arm64.zip",
+        "sha256": "467c31884a018a65eaf1d59620116fae397a50cc4b7f88b874837caf14ec024e"
       },
       "x64": {
-        "url": "https://github.com/gonkanetworkonboardinghub/gonka-host-setup/releases/download/v1.8.16/Gonka-Network-Onboarding-Tool-1.8.16-mac-x64.zip",
-        "sha256": "63ff3a1c988c1d0a1afa012819a5115455e114b31b7d2e90c4348314187c2252"
+        "url": "https://github.com/gonkanetworkonboardinghub/gonka-host-setup/releases/download/v1.8.17/Gonka-Network-Onboarding-Tool-1.8.17-mac-x64.zip",
+        "sha256": "6c78e7a8a44698322b87e2f075111a219a46344cded75731ac392c8513d999fd"
       }
     }
   }
