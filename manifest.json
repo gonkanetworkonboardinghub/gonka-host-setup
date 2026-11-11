@@ -21,23 +21,23 @@
   ],
   "gasPriceNgonka": 1,
   "app": {
-    "latest": "1.8.17",
-    "minSupported": "1.8.17",
+    "latest": "1.8.18",
+    "minSupported": "1.8.18",
     "url": "https://github.com/gonkanetworkonboardinghub/gonka-host-setup/releases/latest/download/Gonka-Network-Onboarding-Tool.exe",
-    "installer": "https://github.com/gonkanetworkonboardinghub/gonka-host-setup/releases/download/v1.8.17/Gonka-Network-Onboarding-Tool-Setup-1.8.17.exe",
-    "sha256": "d675d9811caeb2c8d40caa7325feedb9c41d2c1c720af49ccb70ad4afb44b371",
-    "notes": "The network page now says plainly that its GPU numbers count each GPU once, not H100 equivalents. Votes now measure turnout the way the chain does (it read a little high), keep a decimal for a small turnout instead of showing 0%, and say how many wallets have voted.",
+    "installer": "https://github.com/gonkanetworkonboardinghub/gonka-host-setup/releases/download/v1.8.18/Gonka-Network-Onboarding-Tool-Setup-1.8.18.exe",
+    "sha256": "f5a3e55bd394721122bea0da94e6960bf5dbd996f27681d5653f94345d685fce",
+    "notes": "Mine or buy now shows what the middle half of the hosts running each setup earn, in the table, the provider comparison and the calculator, and says why when a setup has a single figure. A Gonka public node that is down no longer slows the app down, and the 'not answering' check says when it was made. Security fixes in Electron 44.11.1.",
     "mac": {
-      "latest": "1.8.17",
-      "minSupported": "1.8.17",
-      "notes": "The network page now says plainly that its GPU numbers count each GPU once, not H100 equivalents. Votes now measure turnout the way the chain does (it read a little high), keep a decimal for a small turnout instead of showing 0%, and say how many wallets have voted.",
+      "latest": "1.8.18",
+      "minSupported": "1.8.18",
+      "notes": "Mine or buy now shows what the middle half of the hosts running each setup earn, in the table, the provider comparison and the calculator, and says why when a setup has a single figure. A Gonka public node that is down no longer slows the app down, and the 'not answering' check says when it was made. Security fixes in Electron 44.11.1.",
       "arm64": {
-        "url": "https://github.com/gonkanetworkonboardinghub/gonka-host-setup/releases/download/v1.8.17/Gonka-Network-Onboarding-Tool-1.8.17-mac-arm64.zip",
-        "sha256": "467c31884a018a65eaf1d59620116fae397a50cc4b7f88b874837caf14ec024e"
+        "url": "https://github.com/gonkanetworkonboardinghub/gonka-host-setup/releases/download/v1.8.18/Gonka-Network-Onboarding-Tool-1.8.18-mac-arm64.zip",
+        "sha256": "70f455b8c06e793d959a50a98d6e3e23fae4370cd747c3325d93c03c932349b2"
       },
       "x64": {
-        "url": "https://github.com/gonkanetworkonboardinghub/gonka-host-setup/releases/download/v1.8.17/Gonka-Network-Onboarding-Tool-1.8.17-mac-x64.zip",
-        "sha256": "6c78e7a8a44698322b87e2f075111a219a46344cded75731ac392c8513d999fd"
+        "url": "https://github.com/gonkanetworkonboardinghub/gonka-host-setup/releases/download/v1.8.18/Gonka-Network-Onboarding-Tool-1.8.18-mac-x64.zip",
+        "sha256": "23ccdabccc3ab1ffc65fdc8aaf234cc48c79fd50529e818148f00aa5341d311b"
       }
     }
   }
