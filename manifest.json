@@ -21,23 +21,23 @@
   ],
   "gasPriceNgonka": 1,
   "app": {
-    "latest": "1.8.18",
-    "minSupported": "1.8.18",
+    "latest": "1.8.19",
+    "minSupported": "1.8.19",
     "url": "https://github.com/gonkanetworkonboardinghub/gonka-host-setup/releases/latest/download/Gonka-Network-Onboarding-Tool.exe",
-    "installer": "https://github.com/gonkanetworkonboardinghub/gonka-host-setup/releases/download/v1.8.18/Gonka-Network-Onboarding-Tool-Setup-1.8.18.exe",
-    "sha256": "f5a3e55bd394721122bea0da94e6960bf5dbd996f27681d5653f94345d685fce",
-    "notes": "Mine or buy now shows what the middle half of the hosts running each setup earn, in the table, the provider comparison and the calculator, and says why when a setup has a single figure. A Gonka public node that is down no longer slows the app down, and the 'not answering' check says when it was made. Security fixes in Electron 44.11.1.",
+    "installer": "https://github.com/gonkanetworkonboardinghub/gonka-host-setup/releases/download/v1.8.19/Gonka-Network-Onboarding-Tool-Setup-1.8.19.exe",
+    "sha256": "6f5b1a3058d0dc3692d4fd3650bdd8bff473fcc8fe89fb0ea2a8ec136f971fff",
+    "notes": "A new look: the website's typefaces, more depth and gentle motion, a home screen that shows where the epoch stands, and Back and Continue buttons that stay in view. The long note on Mine or buy is now folded behind 'How to read these figures'. Setup itself works as before.",
     "mac": {
-      "latest": "1.8.18",
-      "minSupported": "1.8.18",
-      "notes": "Mine or buy now shows what the middle half of the hosts running each setup earn, in the table, the provider comparison and the calculator, and says why when a setup has a single figure. A Gonka public node that is down no longer slows the app down, and the 'not answering' check says when it was made. Security fixes in Electron 44.11.1.",
+      "latest": "1.8.19",
+      "minSupported": "1.8.19",
+      "notes": "A new look: the website's typefaces, more depth and gentle motion, a home screen that shows where the epoch stands, and Back and Continue buttons that stay in view. The long note on Mine or buy is now folded behind 'How to read these figures'. Setup itself works as before.",
       "arm64": {
-        "url": "https://github.com/gonkanetworkonboardinghub/gonka-host-setup/releases/download/v1.8.18/Gonka-Network-Onboarding-Tool-1.8.18-mac-arm64.zip",
-        "sha256": "70f455b8c06e793d959a50a98d6e3e23fae4370cd747c3325d93c03c932349b2"
+        "url": "https://github.com/gonkanetworkonboardinghub/gonka-host-setup/releases/download/v1.8.19/Gonka-Network-Onboarding-Tool-1.8.19-mac-arm64.zip",
+        "sha256": "44edc9c1576942bea72ceda55ed0435dffda18088f34486b2469df5e36628cb3"
       },
       "x64": {
-        "url": "https://github.com/gonkanetworkonboardinghub/gonka-host-setup/releases/download/v1.8.18/Gonka-Network-Onboarding-Tool-1.8.18-mac-x64.zip",
-        "sha256": "23ccdabccc3ab1ffc65fdc8aaf234cc48c79fd50529e818148f00aa5341d311b"
+        "url": "https://github.com/gonkanetworkonboardinghub/gonka-host-setup/releases/download/v1.8.19/Gonka-Network-Onboarding-Tool-1.8.19-mac-x64.zip",
+        "sha256": "9b0f40eeeebbda520e9217ca89d60284b851389b2d80cdbf59b8bdfacfcd163c"
       }
     }
   }
