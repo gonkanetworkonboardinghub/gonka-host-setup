@@ -21,23 +21,23 @@
   ],
   "gasPriceNgonka": 1,
   "app": {
-    "latest": "1.8.19",
-    "minSupported": "1.8.19",
+    "latest": "1.8.20",
+    "minSupported": "1.8.20",
     "url": "https://github.com/gonkanetworkonboardinghub/gonka-host-setup/releases/latest/download/Gonka-Network-Onboarding-Tool.exe",
-    "installer": "https://github.com/gonkanetworkonboardinghub/gonka-host-setup/releases/download/v1.8.19/Gonka-Network-Onboarding-Tool-Setup-1.8.19.exe",
-    "sha256": "6f5b1a3058d0dc3692d4fd3650bdd8bff473fcc8fe89fb0ea2a8ec136f971fff",
-    "notes": "A new look: the website's typefaces, more depth and gentle motion, a home screen that shows where the epoch stands, and Back and Continue buttons that stay in view. The long note on Mine or buy is now folded behind 'How to read these figures'. Setup itself works as before.",
+    "installer": "https://github.com/gonkanetworkonboardinghub/gonka-host-setup/releases/download/v1.8.20/Gonka-Network-Onboarding-Tool-Setup-1.8.20.exe",
+    "sha256": "7bc66e27902f11d187a9b6e765bedec2a56d832dae7bcae5a47684c23423fb54",
+    "notes": "Host Setup, after a full run on a rented server. A step that is running now carries on when you look at another page. A provider's SSH command no longer changes how you log in. A port another program uses on the server no longer stops the launch. The wallet step shows what hosts really pay in fees and how long 1 GNK lasts. Continue opens only when a step is done, and the countdown keeps the second. Monitor/Vote remembers how you voted.",
     "mac": {
-      "latest": "1.8.19",
-      "minSupported": "1.8.19",
-      "notes": "A new look: the website's typefaces, more depth and gentle motion, a home screen that shows where the epoch stands, and Back and Continue buttons that stay in view. The long note on Mine or buy is now folded behind 'How to read these figures'. Setup itself works as before.",
+      "latest": "1.8.20",
+      "minSupported": "1.8.20",
+      "notes": "Host Setup, after a full run on a rented server. A step that is running now carries on when you look at another page. A provider's SSH command no longer changes how you log in. A port another program uses on the server no longer stops the launch. The wallet step shows what hosts really pay in fees and how long 1 GNK lasts. Continue opens only when a step is done, and the countdown keeps the second. Monitor/Vote remembers how you voted.",
       "arm64": {
-        "url": "https://github.com/gonkanetworkonboardinghub/gonka-host-setup/releases/download/v1.8.19/Gonka-Network-Onboarding-Tool-1.8.19-mac-arm64.zip",
-        "sha256": "44edc9c1576942bea72ceda55ed0435dffda18088f34486b2469df5e36628cb3"
+        "url": "https://github.com/gonkanetworkonboardinghub/gonka-host-setup/releases/download/v1.8.20/Gonka-Network-Onboarding-Tool-1.8.20-mac-arm64.zip",
+        "sha256": "00e856ce5f4751352db0f072959871c6ac7f74172f618ba68ee7a4afa0709295"
       },
       "x64": {
-        "url": "https://github.com/gonkanetworkonboardinghub/gonka-host-setup/releases/download/v1.8.19/Gonka-Network-Onboarding-Tool-1.8.19-mac-x64.zip",
-        "sha256": "9b0f40eeeebbda520e9217ca89d60284b851389b2d80cdbf59b8bdfacfcd163c"
+        "url": "https://github.com/gonkanetworkonboardinghub/gonka-host-setup/releases/download/v1.8.20/Gonka-Network-Onboarding-Tool-1.8.20-mac-x64.zip",
+        "sha256": "685b2c44e68ea0a906c5ea406a103a9b969242a3a02d31c9dd88bfcfb253842d"
       }
     }
   }
