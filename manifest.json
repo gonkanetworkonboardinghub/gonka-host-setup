@@ -21,23 +21,23 @@
   ],
   "gasPriceNgonka": 1,
   "app": {
-    "latest": "1.8.21",
-    "minSupported": "1.8.21",
+    "latest": "1.8.22",
+    "minSupported": "1.8.22",
     "url": "https://github.com/gonkanetworkonboardinghub/gonka-host-setup/releases/latest/download/Gonka-Network-Onboarding-Tool.exe",
-    "installer": "https://github.com/gonkanetworkonboardinghub/gonka-host-setup/releases/download/v1.8.21/Gonka-Network-Onboarding-Tool-Setup-1.8.21.exe",
-    "sha256": "34edf07121950c83dee175223e35875e6e0107f1655c3659fb371dedc6ca8814",
-    "notes": "Host Setup now has a Start over button on every step: stop the setup you are in and begin again, whatever step you are on. It asks first, and tells you that nothing on your server is removed or stopped.",
+    "installer": "https://github.com/gonkanetworkonboardinghub/gonka-host-setup/releases/download/v1.8.22/Gonka-Network-Onboarding-Tool-Setup-1.8.22.exe",
+    "sha256": "256d42583859361a0ef9db0fe29142ce094b82fad021c97e98f08f5b3f58b2f6",
+    "notes": "Verify: the fee card now reads your wallet and your node's allowance from the network, judges them by what hosts really paid last epoch, and refreshes every minute. It no longer says a funded wallet is short.",
     "mac": {
-      "latest": "1.8.21",
-      "minSupported": "1.8.21",
-      "notes": "Host Setup now has a Start over button on every step: stop the setup you are in and begin again, whatever step you are on. It asks first, and tells you that nothing on your server is removed or stopped.",
+      "latest": "1.8.22",
+      "minSupported": "1.8.22",
+      "notes": "Verify: the fee card now reads your wallet and your node's allowance from the network, judges them by what hosts really paid last epoch, and refreshes every minute. It no longer says a funded wallet is short.",
       "arm64": {
-        "url": "https://github.com/gonkanetworkonboardinghub/gonka-host-setup/releases/download/v1.8.21/Gonka-Network-Onboarding-Tool-1.8.21-mac-arm64.zip",
-        "sha256": "00e819f31d888eeaf0d5d4a2d726e28da60c1c270c6ff8d4cb0407ca857ba359"
+        "url": "https://github.com/gonkanetworkonboardinghub/gonka-host-setup/releases/download/v1.8.22/Gonka-Network-Onboarding-Tool-1.8.22-mac-arm64.zip",
+        "sha256": "e00d47bd7cfcd413e3e80c6846992fdc933ab3f295d607f6adba430ad2b93ab4"
       },
       "x64": {
-        "url": "https://github.com/gonkanetworkonboardinghub/gonka-host-setup/releases/download/v1.8.21/Gonka-Network-Onboarding-Tool-1.8.21-mac-x64.zip",
-        "sha256": "0b17ff13a45a65778171a1e655418e2a3383f271cb156eb95aba37f24498f637"
+        "url": "https://github.com/gonkanetworkonboardinghub/gonka-host-setup/releases/download/v1.8.22/Gonka-Network-Onboarding-Tool-1.8.22-mac-x64.zip",
+        "sha256": "cc3154738b39e19092868a86abca1ae9e411c08561fe16d7fe40f3514ca50478"
       }
     }
   }
