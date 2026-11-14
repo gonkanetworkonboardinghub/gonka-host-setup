@@ -21,23 +21,23 @@
   ],
   "gasPriceNgonka": 1,
   "app": {
-    "latest": "1.8.23",
-    "minSupported": "1.8.23",
+    "latest": "1.8.24",
+    "minSupported": "1.8.24",
     "url": "https://github.com/gonkanetworkonboardinghub/gonka-host-setup/releases/latest/download/Gonka-Network-Onboarding-Tool.exe",
-    "installer": "https://github.com/gonkanetworkonboardinghub/gonka-host-setup/releases/download/v1.8.23/Gonka-Network-Onboarding-Tool-Setup-1.8.23.exe",
-    "sha256": "331aa4a34f111b554827a502509b5a7d809d15ae50365529d2d49992b36919e4",
-    "notes": "Host Setup: the launch step now says it can take about an hour. On Verify, a moment when GNOT cannot read your server no longer hides the progress lines; it keeps them and tries again. The fee card speaks in one voice for every wallet.",
+    "installer": "https://github.com/gonkanetworkonboardinghub/gonka-host-setup/releases/download/v1.8.24/Gonka-Network-Onboarding-Tool-Setup-1.8.24.exe",
+    "sha256": "abe11dfed628ccc6c078e5e84e924080cc50a40307902725dd8c920451df5d4e",
+    "notes": "Host Setup: a new step, Other models. Gonka asks every host to choose, for each model its node does not run, to delegate it or refuse it, and a model left without a choice costs 15% of the reward every epoch. GNOT now explains it plainly, suggests a host, sends the choice right after registering, checks it in Verify, and shows and changes it in Monitor/Vote.",
     "mac": {
-      "latest": "1.8.23",
-      "minSupported": "1.8.23",
-      "notes": "Host Setup: the launch step now says it can take about an hour. On Verify, a moment when GNOT cannot read your server no longer hides the progress lines; it keeps them and tries again. The fee card speaks in one voice for every wallet.",
+      "latest": "1.8.24",
+      "minSupported": "1.8.24",
+      "notes": "Host Setup: a new step, Other models. Gonka asks every host to choose, for each model its node does not run, to delegate it or refuse it, and a model left without a choice costs 15% of the reward every epoch. GNOT now explains it plainly, suggests a host, sends the choice right after registering, checks it in Verify, and shows and changes it in Monitor/Vote.",
       "arm64": {
-        "url": "https://github.com/gonkanetworkonboardinghub/gonka-host-setup/releases/download/v1.8.23/Gonka-Network-Onboarding-Tool-1.8.23-mac-arm64.zip",
-        "sha256": "9fd0b16ee89b14988557e0b162245318722490814c48712e986b0e0acb228c37"
+        "url": "https://github.com/gonkanetworkonboardinghub/gonka-host-setup/releases/download/v1.8.24/Gonka-Network-Onboarding-Tool-1.8.24-mac-arm64.zip",
+        "sha256": "4a58b3ca40baaff07b88b28c1d751baa3fc3d5e84a3da0f7b2f418037bf3fa73"
       },
       "x64": {
-        "url": "https://github.com/gonkanetworkonboardinghub/gonka-host-setup/releases/download/v1.8.23/Gonka-Network-Onboarding-Tool-1.8.23-mac-x64.zip",
-        "sha256": "2744da2b02eedba09ca3fc0ecdcd4789188cc69136bfe147f7599a8496824c92"
+        "url": "https://github.com/gonkanetworkonboardinghub/gonka-host-setup/releases/download/v1.8.24/Gonka-Network-Onboarding-Tool-1.8.24-mac-x64.zip",
+        "sha256": "290e540a48f3b5c2e578654d1e7d045a45d0492deac08b966a5fa8b238616125"
       }
     }
   }
