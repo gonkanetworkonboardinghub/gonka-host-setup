@@ -21,23 +21,23 @@
   ],
   "gasPriceNgonka": 1,
   "app": {
-    "latest": "1.8.25",
-    "minSupported": "1.8.25",
+    "latest": "1.8.26",
+    "minSupported": "1.8.26",
     "url": "https://github.com/gonkanetworkonboardinghub/gonka-host-setup/releases/latest/download/Gonka-Network-Onboarding-Tool.exe",
-    "installer": "https://github.com/gonkanetworkonboardinghub/gonka-host-setup/releases/download/v1.8.25/Gonka-Network-Onboarding-Tool-Setup-1.8.25.exe",
-    "sha256": "713cf6f53871ea9d5942d10abcb916881fcc913c3b69c29c62ccc69999235abb",
-    "notes": "Gonka asks everyone not to use its Ethereum bridge right now, so WGNK, Uniswap and the bridge are gone from GNOT, and the GNK price now reads only markets for GNK itself. Model weights are downloaded at the exact version the Gonka network approved. The server key's recovery words no longer appear in the activity log. Electron 44.11.4.",
+    "installer": "https://github.com/gonkanetworkonboardinghub/gonka-host-setup/releases/download/v1.8.26/Gonka-Network-Onboarding-Tool-Setup-1.8.26.exe",
+    "sha256": "cc015dd9db2b35aec28cf11026db454c508cf4da301b198a602cc860f3971f3a",
+    "notes": "From hosts' feedback. The first step shows each model's share of the network's work, as the network measured it, instead of a count of hosts. When you choose a host for the other models, you see each host's record: epochs on the network, epochs running that model, missed requests and GPUs, and GNOT's own pick prefers hosts with a steady record. While the Monitor is open, it checks the hosts your nodes chose and warns you, with one desktop notice per epoch, if one has left or stopped answering; nothing changes until you choose another. The wallet reads the gas price from the network. Electron 44.11.5.",
     "mac": {
-      "latest": "1.8.25",
-      "minSupported": "1.8.25",
-      "notes": "Gonka asks everyone not to use its Ethereum bridge right now, so WGNK, Uniswap and the bridge are gone from GNOT, and the GNK price now reads only markets for GNK itself. Model weights are downloaded at the exact version the Gonka network approved. The server key's recovery words no longer appear in the activity log. Electron 44.11.4.",
+      "latest": "1.8.26",
+      "minSupported": "1.8.26",
+      "notes": "From hosts' feedback. The first step shows each model's share of the network's work, as the network measured it, instead of a count of hosts. When you choose a host for the other models, you see each host's record: epochs on the network, epochs running that model, missed requests and GPUs, and GNOT's own pick prefers hosts with a steady record. While the Monitor is open, it checks the hosts your nodes chose and warns you, with one desktop notice per epoch, if one has left or stopped answering; nothing changes until you choose another. The wallet reads the gas price from the network. Electron 44.11.5.",
       "arm64": {
-        "url": "https://github.com/gonkanetworkonboardinghub/gonka-host-setup/releases/download/v1.8.25/Gonka-Network-Onboarding-Tool-1.8.25-mac-arm64.zip",
-        "sha256": "14a738827d387782b80cef34f7d63ac26ce1306b631532f615312de2d6d6e646"
+        "url": "https://github.com/gonkanetworkonboardinghub/gonka-host-setup/releases/download/v1.8.26/Gonka-Network-Onboarding-Tool-1.8.26-mac-arm64.zip",
+        "sha256": "7201f175bd193e007dfe58deac6a46c5caffd4dbb5de8fdb7441d4ebbdc86925"
       },
       "x64": {
-        "url": "https://github.com/gonkanetworkonboardinghub/gonka-host-setup/releases/download/v1.8.25/Gonka-Network-Onboarding-Tool-1.8.25-mac-x64.zip",
-        "sha256": "37ca5acc0a7b39a88d2006a5dc8f9d53e4e1a1aad1ba8122e252f80dae27ef2c"
+        "url": "https://github.com/gonkanetworkonboardinghub/gonka-host-setup/releases/download/v1.8.26/Gonka-Network-Onboarding-Tool-1.8.26-mac-x64.zip",
+        "sha256": "ec216edc6e84a5f64171714e77d8d7c0e2f8764bf3aa31ea9240a3681d14bf0c"
       }
     }
   }
