@@ -21,23 +21,23 @@
   ],
   "gasPriceNgonka": 1,
   "app": {
-    "latest": "1.8.26",
-    "minSupported": "1.8.26",
+    "latest": "1.8.27",
+    "minSupported": "1.8.27",
     "url": "https://github.com/gonkanetworkonboardinghub/gonka-host-setup/releases/latest/download/Gonka-Network-Onboarding-Tool.exe",
-    "installer": "https://github.com/gonkanetworkonboardinghub/gonka-host-setup/releases/download/v1.8.26/Gonka-Network-Onboarding-Tool-Setup-1.8.26.exe",
-    "sha256": "cc015dd9db2b35aec28cf11026db454c508cf4da301b198a602cc860f3971f3a",
-    "notes": "From hosts' feedback. The first step shows each model's share of the network's work, as the network measured it, instead of a count of hosts. When you choose a host for the other models, you see each host's record: epochs on the network, epochs running that model, missed requests and GPUs, and GNOT's own pick prefers hosts with a steady record. While the Monitor is open, it checks the hosts your nodes chose and warns you, with one desktop notice per epoch, if one has left or stopped answering; nothing changes until you choose another. The wallet reads the gas price from the network. Electron 44.11.5.",
+    "installer": "https://github.com/gonkanetworkonboardinghub/gonka-host-setup/releases/download/v1.8.27/Gonka-Network-Onboarding-Tool-Setup-1.8.27.exe",
+    "sha256": "f63365e4d298d86c585cc7d9cc5c2a652453dc627b8318f3e6459531e5ae8982",
+    "notes": "Your nodes, watched: every 15 minutes GNOT looks at each node of yours the way its page in Monitor/Vote does, and a bell at the top right lists anything worth a look; the serious things also come as a desktop notice. When you close GNOT with a node of your own, it can keep watching from an icon near the clock. Step 1 shows the number of hosts again under each model's share, counting only hosts the network measured doing that work, and lists the models hosts run that have no ready-made setup in GNOT yet. The wallet step says so when a wallet already has a node on another server: one wallet is one node.",
     "mac": {
-      "latest": "1.8.26",
-      "minSupported": "1.8.26",
-      "notes": "From hosts' feedback. The first step shows each model's share of the network's work, as the network measured it, instead of a count of hosts. When you choose a host for the other models, you see each host's record: epochs on the network, epochs running that model, missed requests and GPUs, and GNOT's own pick prefers hosts with a steady record. While the Monitor is open, it checks the hosts your nodes chose and warns you, with one desktop notice per epoch, if one has left or stopped answering; nothing changes until you choose another. The wallet reads the gas price from the network. Electron 44.11.5.",
+      "latest": "1.8.27",
+      "minSupported": "1.8.27",
+      "notes": "Your nodes, watched: every 15 minutes GNOT looks at each node of yours the way its page in Monitor/Vote does, and a bell at the top right lists anything worth a look; the serious things also come as a desktop notice. When you close GNOT with a node of your own, it can keep watching from an icon near the clock. Step 1 shows the number of hosts again under each model's share, counting only hosts the network measured doing that work, and lists the models hosts run that have no ready-made setup in GNOT yet. The wallet step says so when a wallet already has a node on another server: one wallet is one node.",
       "arm64": {
-        "url": "https://github.com/gonkanetworkonboardinghub/gonka-host-setup/releases/download/v1.8.26/Gonka-Network-Onboarding-Tool-1.8.26-mac-arm64.zip",
-        "sha256": "7201f175bd193e007dfe58deac6a46c5caffd4dbb5de8fdb7441d4ebbdc86925"
+        "url": "https://github.com/gonkanetworkonboardinghub/gonka-host-setup/releases/download/v1.8.27/Gonka-Network-Onboarding-Tool-1.8.27-mac-arm64.zip",
+        "sha256": "0281264644f2ec41ddc9e34cffb1ce686ccb6196bd8ce71e6f6380ef17daff29"
       },
       "x64": {
-        "url": "https://github.com/gonkanetworkonboardinghub/gonka-host-setup/releases/download/v1.8.26/Gonka-Network-Onboarding-Tool-1.8.26-mac-x64.zip",
-        "sha256": "ec216edc6e84a5f64171714e77d8d7c0e2f8764bf3aa31ea9240a3681d14bf0c"
+        "url": "https://github.com/gonkanetworkonboardinghub/gonka-host-setup/releases/download/v1.8.27/Gonka-Network-Onboarding-Tool-1.8.27-mac-x64.zip",
+        "sha256": "0ecfbaeb625b10b1461b72ba1593b98d5a84cdd6f26a0f8c5ab4e7c24972da7f"
       }
     }
   }
