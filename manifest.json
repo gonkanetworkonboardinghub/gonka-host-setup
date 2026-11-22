@@ -21,23 +21,23 @@
   ],
   "gasPriceNgonka": 1,
   "app": {
-    "latest": "1.8.27",
-    "minSupported": "1.8.27",
+    "latest": "1.8.28",
+    "minSupported": "1.8.28",
     "url": "https://github.com/gonkanetworkonboardinghub/gonka-host-setup/releases/latest/download/Gonka-Network-Onboarding-Tool.exe",
-    "installer": "https://github.com/gonkanetworkonboardinghub/gonka-host-setup/releases/download/v1.8.27/Gonka-Network-Onboarding-Tool-Setup-1.8.27.exe",
-    "sha256": "f63365e4d298d86c585cc7d9cc5c2a652453dc627b8318f3e6459531e5ae8982",
-    "notes": "Your nodes, watched: every 15 minutes GNOT looks at each node of yours the way its page in Monitor/Vote does, and a bell at the top right lists anything worth a look; the serious things also come as a desktop notice. When you close GNOT with a node of your own, it can keep watching from an icon near the clock. Step 1 shows the number of hosts again under each model's share, counting only hosts the network measured doing that work, and lists the models hosts run that have no ready-made setup in GNOT yet. The wallet step says so when a wallet already has a node on another server: one wallet is one node.",
+    "installer": "https://github.com/gonkanetworkonboardinghub/gonka-host-setup/releases/download/v1.8.28/Gonka-Network-Onboarding-Tool-Setup-1.8.28.exe",
+    "sha256": "cf820a52ac0ab25ecbd785a7d08511b0f367f9769f97418b2347fe715e2defde",
+    "notes": "The bell clears what you click: Open, Got it and Clear all take a notice away at once, and a desktop notice closes when you click it. Something you cleared comes back only if it is still so in the next epoch.",
     "mac": {
-      "latest": "1.8.27",
-      "minSupported": "1.8.27",
-      "notes": "Your nodes, watched: every 15 minutes GNOT looks at each node of yours the way its page in Monitor/Vote does, and a bell at the top right lists anything worth a look; the serious things also come as a desktop notice. When you close GNOT with a node of your own, it can keep watching from an icon near the clock. Step 1 shows the number of hosts again under each model's share, counting only hosts the network measured doing that work, and lists the models hosts run that have no ready-made setup in GNOT yet. The wallet step says so when a wallet already has a node on another server: one wallet is one node.",
+      "latest": "1.8.28",
+      "minSupported": "1.8.28",
+      "notes": "The bell clears what you click: Open, Got it and Clear all take a notice away at once, and a desktop notice closes when you click it. Something you cleared comes back only if it is still so in the next epoch.",
       "arm64": {
-        "url": "https://github.com/gonkanetworkonboardinghub/gonka-host-setup/releases/download/v1.8.27/Gonka-Network-Onboarding-Tool-1.8.27-mac-arm64.zip",
-        "sha256": "0281264644f2ec41ddc9e34cffb1ce686ccb6196bd8ce71e6f6380ef17daff29"
+        "url": "https://github.com/gonkanetworkonboardinghub/gonka-host-setup/releases/download/v1.8.28/Gonka-Network-Onboarding-Tool-1.8.28-mac-arm64.zip",
+        "sha256": "1303efb903a5aab62a28d7d953ca364b1c51d5e8d4950e9df7abe7efaab636d3"
       },
       "x64": {
-        "url": "https://github.com/gonkanetworkonboardinghub/gonka-host-setup/releases/download/v1.8.27/Gonka-Network-Onboarding-Tool-1.8.27-mac-x64.zip",
-        "sha256": "0ecfbaeb625b10b1461b72ba1593b98d5a84cdd6f26a0f8c5ab4e7c24972da7f"
+        "url": "https://github.com/gonkanetworkonboardinghub/gonka-host-setup/releases/download/v1.8.28/Gonka-Network-Onboarding-Tool-1.8.28-mac-x64.zip",
+        "sha256": "a46d0854047f4a0ac0fcf217a51a17798809bcf664458445b7d873151a1669f8"
       }
     }
   }
