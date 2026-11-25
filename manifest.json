@@ -1,5 +1,5 @@
 {
-  "usageEndpoint": "https://thegonkanetworkonboardinghub.com/functions/gnot-usage",
+  "usageEndpoint": "https://gonkanetworkonboardingtool.com/functions/gnot-usage",
   "mlOpsPermissions": [
     "/inference.inference.MsgClaimRewards",
     "/inference.inference.MsgSubmitPocBatch",
