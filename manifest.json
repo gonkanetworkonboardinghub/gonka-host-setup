@@ -21,23 +21,23 @@
   ],
   "gasPriceNgonka": 1,
   "app": {
-    "latest": "1.8.28",
-    "minSupported": "1.8.28",
+    "latest": "1.8.29",
+    "minSupported": "1.8.29",
     "url": "https://github.com/gonkanetworkonboardinghub/gonka-host-setup/releases/latest/download/Gonka-Network-Onboarding-Tool.exe",
-    "installer": "https://github.com/gonkanetworkonboardinghub/gonka-host-setup/releases/download/v1.8.28/Gonka-Network-Onboarding-Tool-Setup-1.8.28.exe",
-    "sha256": "cf820a52ac0ab25ecbd785a7d08511b0f367f9769f97418b2347fe715e2defde",
-    "notes": "The bell clears what you click: Open, Got it and Clear all take a notice away at once, and a desktop notice closes when you click it. Something you cleared comes back only if it is still so in the next epoch.",
+    "installer": "https://github.com/gonkanetworkonboardinghub/gonka-host-setup/releases/download/v1.8.29/Gonka-Network-Onboarding-Tool-Setup-1.8.29.exe",
+    "sha256": "0352da84613c1f80b70489bc727a6d10a727a0e15064f92458eaa667f16e1d24",
+    "notes": "GNOT is now one name for the app and its website. The website moved to gonkanetworkonboardingtool.com (the old address forwards there), and the app's links follow.",
     "mac": {
-      "latest": "1.8.28",
-      "minSupported": "1.8.28",
-      "notes": "The bell clears what you click: Open, Got it and Clear all take a notice away at once, and a desktop notice closes when you click it. Something you cleared comes back only if it is still so in the next epoch.",
+      "latest": "1.8.29",
+      "minSupported": "1.8.29",
+      "notes": "GNOT is now one name for the app and its website. The website moved to gonkanetworkonboardingtool.com (the old address forwards there), and the app's links follow.",
       "arm64": {
-        "url": "https://github.com/gonkanetworkonboardinghub/gonka-host-setup/releases/download/v1.8.28/Gonka-Network-Onboarding-Tool-1.8.28-mac-arm64.zip",
-        "sha256": "1303efb903a5aab62a28d7d953ca364b1c51d5e8d4950e9df7abe7efaab636d3"
+        "url": "https://github.com/gonkanetworkonboardinghub/gonka-host-setup/releases/download/v1.8.29/Gonka-Network-Onboarding-Tool-1.8.29-mac-arm64.zip",
+        "sha256": "bab0014f55ccc4734f1d894fcc44b0c672aa39e1ff8e2357e93a1d7aa384adbe"
       },
       "x64": {
-        "url": "https://github.com/gonkanetworkonboardinghub/gonka-host-setup/releases/download/v1.8.28/Gonka-Network-Onboarding-Tool-1.8.28-mac-x64.zip",
-        "sha256": "a46d0854047f4a0ac0fcf217a51a17798809bcf664458445b7d873151a1669f8"
+        "url": "https://github.com/gonkanetworkonboardinghub/gonka-host-setup/releases/download/v1.8.29/Gonka-Network-Onboarding-Tool-1.8.29-mac-x64.zip",
+        "sha256": "d281ff113430153c28631c458caa347aa0c92dce5accf5f8ea8453499e49dcbf"
       }
     }
   }
